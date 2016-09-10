@@ -62,7 +62,7 @@ run_analysis <- function(){
     }
     
     tidyData<-rbind(xTrainData,xTestData)
-    tidyDataSummarised <- ddply(tidyData,.(volunteernumber,activity,feature,direction,calculation,measurmentunit),summarise,mean=mean(value))
+    tidyDataSummarised <- ddply(tidyData,.(volunteernumber,activity,feature),summarise,mean=mean(value))
     
     setwd(dirBack)
     

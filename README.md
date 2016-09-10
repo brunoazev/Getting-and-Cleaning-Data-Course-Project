@@ -7,3 +7,5 @@ The goal was to prepare tidy data that can be used for later analysis.
 Use the following function to read the data into R:
 
 data <- read.table("tidydata.txt",header=TRUE)
+
+and then generates a tidy data text file that meets the principles of

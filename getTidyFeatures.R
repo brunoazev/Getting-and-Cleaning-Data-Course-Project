@@ -29,18 +29,23 @@ getTidyFeatures <- function(featureFile){
   features$description <- gsub("Gyro","Gyroscope",features$description)
   features$description <- gsub("Mag","Magnitude",features$description)
   features$description <- gsub("Acc","Accelerometer",features$description)
-  #Transforms the variable "description" to a factor
-  features$description <- as.factor(str_trim(features$description))
+  
   #Eliminates unnecessary text from 'calculation' variable
   features$calculation <- str_replace(features$calculation,"\\(.*\\)","")
   #Eliminates unnecessary text from 'direction' variable
   features$direction <- as.factor(str_replace(features$direction,"[^XYZ]+",""))
+  
   #Fills blank variables with NA
   features$direction[features$direction == ""] <- NA
   features$calculation[features$calculation == ""] <- NA
   #Set missing calculation values to the method name extracted from original feature description
   features$calculation[is.na(features$calculation)] <- str_replace(features$feature[is.na(features$calculation)],"\\(.*\\)","")
   features$calculation <- as.factor(features$calculation)
+  
+  features$description <- paste(paste(features$description,features$direction,features$calculation,sep=" - "),paste("(",features$measurement,")"))
+  #Transforms the variable "description" to a factor
+  features$description <- as.factor(str_trim(features$description))
+  
   #Only keeps the mean and std measurements
   features <- subset(features,calculation == "mean" | calculation == "std")
   features$calculation <- gsub("std","standard deviation",features$calculation)
