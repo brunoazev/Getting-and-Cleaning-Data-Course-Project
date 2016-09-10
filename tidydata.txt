@@ -1,0 +1,1801 @@
+"volunteernumber" "activity" "feature" "mean"
+1 "LAYING" "Body Accelerometer" -0.648570851953117
+1 "LAYING" "Body Accelerometer Jerk" -0.702190873819183
+1 "LAYING" "Body Accelerometer Jerk Magnitude" -0.93443655735
+1 "LAYING" "Body Accelerometer Magnitude" -0.824285651215
+1 "LAYING" "Body Gyroscope" -0.677260262601
+1 "LAYING" "Body Gyroscope Jerk" -0.511190713530333
+1 "LAYING" "Body Gyroscope Jerk Magnitude" -0.94358240675
+1 "LAYING" "Body Gyroscope Magnitude" -0.84506983571
+1 "LAYING" "Gravity Accelerometer" -0.2924051034
+1 "LAYING" "Gravity Accelerometer Magnitude" -0.81853700818
+1 "SITTING" "Body Accelerometer" -0.699593033476294
+1 "SITTING" "Body Accelerometer Jerk" -0.732899460591064
+1 "SITTING" "Body Accelerometer Jerk Magnitude" -0.984588130957447
+1 "SITTING" "Body Accelerometer Magnitude" -0.937960732287234
+1 "SITTING" "Body Gyroscope" -0.728911386173936
+1 "SITTING" "Body Gyroscope Jerk" -0.524963214528369
+1 "SITTING" "Body Gyroscope Jerk Magnitude" -0.98928305856383
+1 "SITTING" "Body Gyroscope Magnitude" -0.939014573670213
+1 "SITTING" "Gravity Accelerometer" -0.247508317673759
+1 "SITTING" "Gravity Accelerometer Magnitude" -0.937807602446808
+1 "STANDING" "Body Accelerometer" -0.725035349961478
+1 "STANDING" "Body Accelerometer Jerk" -0.73650673237861
+1 "STANDING" "Body Accelerometer Jerk Magnitude" -0.992635620235849
+1 "STANDING" "Body Accelerometer Magnitude" -0.983472825518868
+1 "STANDING" "Body Gyroscope" -0.739770897458003
+1 "STANDING" "Body Gyroscope Jerk" -0.528802339813208
+1 "STANDING" "Body Gyroscope Jerk Magnitude" -0.994796632358491
+1 "STANDING" "Body Gyroscope Magnitude" -0.979566879245283
+1 "STANDING" "Gravity Accelerometer" -0.377975709361321
+1 "STANDING" "Gravity Accelerometer Magnitude" -0.983110568113208
+1 "WALKING" "Body Accelerometer" -0.105660929132044
+1 "WALKING" "Body Accelerometer Jerk" -0.140624954697746
+1 "WALKING" "Body Accelerometer Jerk Magnitude" -0.0941280905326316
+1 "WALKING" "Body Accelerometer Magnitude" -0.220828964915
+1 "WALKING" "Body Gyroscope" -0.215301746360544
+1 "WALKING" "Body Gyroscope Jerk" -0.182019526806667
+1 "WALKING" "Body Gyroscope Jerk Magnitude" -0.331234765886842
+1 "WALKING" "Body Gyroscope Magnitude" -0.217057109986053
+1 "WALKING" "Gravity Accelerometer" -0.385112918982456
+1 "WALKING" "Gravity Accelerometer Magnitude" -0.178329911094211
+1 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.052748947469165
+1 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.121173468481582
+1 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.048267241575
+1 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.0107182811830612
+1 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.175026215694388
+1 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.189934873014728
+1 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.318964431166837
+1 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.22138407457398
+1 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.363395674051361
+1 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.0235363210185714
+1 "WALKING_UPSTAIRS" "Body Accelerometer" -0.125054276780833
+1 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.383744485928616
+1 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.480301771132075
+1 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.305888651551887
+1 "WALKING_UPSTAIRS" "Body Gyroscope" -0.279745049980031
+1 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.337984846034811
+1 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.643007878254717
+1 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.196075470920755
+1 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.394300146342767
+1 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.227449279990566
+2 "LAYING" "Body Accelerometer" -0.72188098324375
+2 "LAYING" "Body Accelerometer Jerk" -0.731733280569809
+2 "LAYING" "Body Accelerometer Jerk Magnitude" -0.9858005940625
+2 "LAYING" "Body Accelerometer Magnitude" -0.975135245625
+2 "LAYING" "Body Gyroscope" -0.731886514793403
+2 "LAYING" "Body Gyroscope Jerk" -0.529808443705556
+2 "LAYING" "Body Gyroscope Jerk Magnitude" -0.990306633020833
+2 "LAYING" "Body Gyroscope Magnitude" -0.96109674375
+2 "LAYING" "Gravity Accelerometer" -0.340306573993056
+2 "LAYING" "Gravity Accelerometer Magnitude" -0.9751546990625
+2 "SITTING" "Body Accelerometer" -0.712731840406703
+2 "SITTING" "Body Accelerometer Jerk" -0.73091269574125
+2 "SITTING" "Body Accelerometer Jerk Magnitude" -0.984812366467391
+2 "SITTING" "Body Accelerometer Magnitude" -0.959456104619565
+2 "SITTING" "Body Gyroscope" -0.736738445388406
+2 "SITTING" "Body Gyroscope Jerk" -0.524153184053985
+2 "SITTING" "Body Gyroscope Jerk Magnitude" -0.990042818315217
+2 "SITTING" "Body Gyroscope Magnitude" -0.960143763152174
+2 "SITTING" "Gravity Accelerometer" -0.309596814941826
+2 "SITTING" "Gravity Accelerometer Magnitude" -0.960487534021739
+2 "STANDING" "Body Accelerometer" -0.711702095765278
+2 "STANDING" "Body Accelerometer Jerk" -0.727583162880154
+2 "STANDING" "Body Accelerometer Jerk Magnitude" -0.977347528287037
+2 "STANDING" "Body Accelerometer Magnitude" -0.962080423564815
+2 "STANDING" "Body Gyroscope" -0.728615302981867
+2 "STANDING" "Body Gyroscope Jerk" -0.523139906160185
+2 "STANDING" "Body Gyroscope Jerk Magnitude" -0.979190114398148
+2 "STANDING" "Body Gyroscope Magnitude" -0.958993588194444
+2 "STANDING" "Gravity Accelerometer" -0.375032381092593
+2 "STANDING" "Gravity Accelerometer Magnitude" -0.961875073148148
+2 "WALKING" "Body Accelerometer" -0.22320940547452
+2 "WALKING" "Body Accelerometer Jerk" -0.223012563613206
+2 "WALKING" "Body Accelerometer Jerk Magnitude" -0.194682865317797
+2 "WALKING" "Body Accelerometer Magnitude" -0.403586600669492
+2 "WALKING" "Body Gyroscope" -0.389801833774506
+2 "WALKING" "Body Gyroscope Jerk" -0.274398358070057
+2 "WALKING" "Body Gyroscope Jerk Magnitude" -0.561765987457627
+2 "WALKING" "Body Gyroscope Magnitude" -0.54551666588983
+2 "WALKING" "Gravity Accelerometer" -0.377624266355932
+2 "WALKING" "Gravity Accelerometer Magnitude" -0.356475881525424
+2 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.052541056733156
+2 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.0245685749379965
+2 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.171250122649468
+2 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.144370873451596
+2 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.241323746179965
+2 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.183812911593262
+2 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.369483709702128
+2 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.282611999094309
+2 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.386617728279433
+2 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.152768727693617
+2 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0919397452059549
+2 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.262880419124531
+2 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.247148320371875
+2 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.206336626930729
+2 "WALKING_UPSTAIRS" "Body Gyroscope" -0.276084165651215
+2 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.291291430169444
+2 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.59818171421875
+2 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.371619556807292
+2 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.426260826863889
+2 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.156649862408333
+3 "LAYING" "Body Accelerometer" -0.714541422396102
+3 "LAYING" "Body Accelerometer Jerk" -0.725960036763442
+3 "LAYING" "Body Accelerometer Jerk Magnitude" -0.976715216774194
+3 "LAYING" "Body Accelerometer Magnitude" -0.967721003790323
+3 "LAYING" "Body Gyroscope" -0.725073076088105
+3 "LAYING" "Body Gyroscope Jerk" -0.52636420197043
+3 "LAYING" "Body Gyroscope Jerk Magnitude" -0.984174822540323
+3 "LAYING" "Body Gyroscope Magnitude" -0.956467110766129
+3 "LAYING" "Gravity Accelerometer" -0.307424279973118
+3 "LAYING" "Gravity Accelerometer Magnitude" -0.968504761290323
+3 "SITTING" "Body Accelerometer" -0.667752962146955
+3 "SITTING" "Body Accelerometer Jerk" -0.720127478842067
+3 "SITTING" "Body Accelerometer Jerk Magnitude" -0.967022145432692
+3 "SITTING" "Body Accelerometer Magnitude" -0.886124341971154
+3 "SITTING" "Body Gyroscope" -0.711951460376987
+3 "SITTING" "Body Gyroscope Jerk" -0.520606559849904
+3 "SITTING" "Body Gyroscope Jerk Magnitude" -0.977339659038462
+3 "SITTING" "Body Gyroscope Magnitude" -0.929246762192308
+3 "SITTING" "Gravity Accelerometer" -0.265260139683365
+3 "SITTING" "Gravity Accelerometer Magnitude" -0.882842525096154
+3 "STANDING" "Body Accelerometer" -0.681866426593609
+3 "STANDING" "Body Accelerometer Jerk" -0.712296095246885
+3 "STANDING" "Body Accelerometer Jerk Magnitude" -0.951227041434426
+3 "STANDING" "Body Accelerometer Magnitude" -0.922344782868852
+3 "STANDING" "Body Gyroscope" -0.688106911903142
+3 "STANDING" "Body Gyroscope Jerk" -0.509341576961202
+3 "STANDING" "Body Gyroscope Jerk Magnitude" -0.959368083729508
+3 "STANDING" "Body Gyroscope Magnitude" -0.892834162868852
+3 "STANDING" "Gravity Accelerometer" -0.368258095377322
+3 "STANDING" "Gravity Accelerometer Magnitude" -0.920287061311475
+3 "WALKING" "Body Accelerometer" -0.200713631367356
+3 "WALKING" "Body Accelerometer Jerk" -0.213524803812328
+3 "WALKING" "Body Accelerometer Jerk Magnitude" -0.174135545027414
+3 "WALKING" "Body Accelerometer Magnitude" -0.332380971465517
+3 "WALKING" "Body Gyroscope" -0.398497577378161
+3 "WALKING" "Body Gyroscope Jerk" -0.291010657045489
+3 "WALKING" "Body Gyroscope Jerk Magnitude" -0.572586358189655
+3 "WALKING" "Body Gyroscope Magnitude" -0.557580375646552
+3 "WALKING" "Gravity Accelerometer" -0.392634417795977
+3 "WALKING" "Gravity Accelerometer Magnitude" -0.291559634913793
+3 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.109590260895595
+3 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.197485661205658
+3 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.126612990361735
+3 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.0772136805586224
+3 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.304741691341327
+3 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.249980364008844
+3 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.573418702040816
+3 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.278976664245918
+3 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.364703983278912
+3 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.0519733098376531
+3 "WALKING_UPSTAIRS" "Body Accelerometer" -0.18103201441791
+3 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.354019033240862
+3 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.442362962966102
+3 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.32036819404661
+3 "WALKING_UPSTAIRS" "Body Gyroscope" -0.385467046523023
+3 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.343640792825706
+3 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.708450164152542
+3 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.428900462891525
+3 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.404266353531073
+3 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.258806163771186
+4 "LAYING" "Body Accelerometer" -0.703908104443981
+4 "LAYING" "Body Accelerometer Jerk" -0.717304618975273
+4 "LAYING" "Body Accelerometer Jerk Magnitude" -0.962801611759259
+4 "LAYING" "Body Accelerometer Magnitude" -0.94060687425463
+4 "LAYING" "Body Gyroscope" -0.718897082581173
+4 "LAYING" "Body Gyroscope Jerk" -0.526713790604938
+4 "LAYING" "Body Gyroscope Jerk Magnitude" -0.983479855185185
+4 "LAYING" "Body Gyroscope Magnitude" -0.946481307407407
+4 "LAYING" "Gravity Accelerometer" -0.338526909660494
+4 "LAYING" "Gravity Accelerometer Magnitude" -0.94292490987963
+4 "SITTING" "Body Accelerometer" -0.6898033607165
+4 "SITTING" "Body Accelerometer Jerk" -0.720916981947417
+4 "SITTING" "Body Accelerometer Jerk Magnitude" -0.9641916618
+4 "SITTING" "Body Accelerometer Magnitude" -0.92473011735
+4 "SITTING" "Body Gyroscope" -0.718047286188333
+4 "SITTING" "Body Gyroscope Jerk" -0.5184900383672
+4 "SITTING" "Body Gyroscope Jerk Magnitude" -0.9772766673
+4 "SITTING" "Body Gyroscope Magnitude" -0.9331454784
+4 "SITTING" "Gravity Accelerometer" -0.279005937640518
+4 "SITTING" "Gravity Accelerometer Magnitude" -0.9250513324
+4 "STANDING" "Body Accelerometer" -0.673242313820223
+4 "STANDING" "Body Accelerometer Jerk" -0.717848067914424
+4 "STANDING" "Body Accelerometer Jerk Magnitude" -0.959425500714286
+4 "STANDING" "Body Accelerometer Magnitude" -0.902602198035714
+4 "STANDING" "Body Gyroscope" -0.694791385802381
+4 "STANDING" "Body Gyroscope Jerk" -0.513656672790655
+4 "STANDING" "Body Gyroscope Jerk Magnitude" -0.965699553794643
+4 "STANDING" "Body Gyroscope Magnitude" -0.896882497053571
+4 "STANDING" "Gravity Accelerometer" -0.290455980815476
+4 "STANDING" "Gravity Accelerometer Magnitude" -0.898727367589286
+4 "WALKING" "Body Accelerometer" -0.275327314332583
+4 "WALKING" "Body Accelerometer Jerk" -0.319672620033194
+4 "WALKING" "Body Accelerometer Jerk Magnitude" -0.330666586958333
+4 "WALKING" "Body Accelerometer Magnitude" -0.485426715958333
+4 "WALKING" "Body Gyroscope" -0.452485731348569
+4 "WALKING" "Body Gyroscope Jerk" -0.358333471221944
+4 "WALKING" "Body Gyroscope Jerk Magnitude" -0.723386476708333
+4 "WALKING" "Body Gyroscope Magnitude" -0.563532775269167
+4 "WALKING" "Gravity Accelerometer" -0.318141340816667
+4 "WALKING" "Gravity Accelerometer Magnitude" -0.419864838666667
+4 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.167995839109907
+4 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.232993974162241
+4 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.225358099809611
+4 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.103458985578333
+4 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.390533629637963
+4 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.28581486945963
+4 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.6342864865
+4 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.403516593938889
+4 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.298452887771481
+4 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.0655587883922222
+4 "WALKING_UPSTAIRS" "Body Accelerometer" -0.172924879731064
+4 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.348825097940801
+4 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.43322852625
+4 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.235886908132692
+4 "WALKING_UPSTAIRS" "Body Gyroscope" -0.344389028388782
+4 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.36223312026891
+4 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.744301885384615
+4 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.484759310817308
+4 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.33400052663141
+4 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.182858117919231
+5 "LAYING" "Body Accelerometer" -0.713884527102564
+5 "LAYING" "Body Accelerometer Jerk" -0.726109102044263
+5 "LAYING" "Body Accelerometer Jerk Magnitude" -0.977839178461538
+5 "LAYING" "Body Accelerometer Magnitude" -0.962537755673077
+5 "LAYING" "Body Gyroscope" -0.724824945239119
+5 "LAYING" "Body Gyroscope Jerk" -0.528375185918269
+5 "LAYING" "Body Gyroscope Jerk Magnitude" -0.984560830336538
+5 "LAYING" "Body Gyroscope Magnitude" -0.958186588653846
+5 "LAYING" "Gravity Accelerometer" -0.362278599102564
+5 "LAYING" "Gravity Accelerometer Magnitude" -0.962695334615385
+5 "SITTING" "Body Accelerometer" -0.692316460535985
+5 "SITTING" "Body Accelerometer Jerk" -0.71938771902003
+5 "SITTING" "Body Accelerometer Jerk Magnitude" -0.966515878238636
+5 "SITTING" "Body Accelerometer Magnitude" -0.930219311477273
+5 "SITTING" "Body Gyroscope" -0.717933944045644
+5 "SITTING" "Body Gyroscope Jerk" -0.514927662383333
+5 "SITTING" "Body Gyroscope Jerk Magnitude" -0.971628667784091
+5 "SITTING" "Body Gyroscope Magnitude" -0.936305911136364
+5 "SITTING" "Gravity Accelerometer" -0.27931761590947
+5 "SITTING" "Gravity Accelerometer Magnitude" -0.929458675113636
+5 "STANDING" "Body Accelerometer" -0.666766999402574
+5 "STANDING" "Body Accelerometer Jerk" -0.710216705943884
+5 "STANDING" "Body Accelerometer Jerk Magnitude" -0.946313369241071
+5 "STANDING" "Body Accelerometer Magnitude" -0.894316266383929
+5 "STANDING" "Body Gyroscope" -0.690285270650104
+5 "STANDING" "Body Gyroscope Jerk" -0.503703511349702
+5 "STANDING" "Body Gyroscope Jerk Magnitude" -0.951214881339286
+5 "STANDING" "Body Gyroscope Magnitude" -0.885292814508929
+5 "STANDING" "Gravity Accelerometer" -0.293425606019048
+5 "STANDING" "Gravity Accelerometer Magnitude" -0.892939251160714
+5 "WALKING" "Body Accelerometer" -0.16900866497054
+5 "WALKING" "Body Accelerometer Jerk" -0.255360170723467
+5 "WALKING" "Body Accelerometer Jerk Magnitude" -0.286435584502232
+5 "WALKING" "Body Accelerometer Magnitude" -0.340036705687946
+5 "WALKING" "Body Gyroscope" -0.32522940440497
+5 "WALKING" "Body Gyroscope Jerk" -0.211477803209821
+5 "WALKING" "Body Gyroscope Jerk Magnitude" -0.484362776830357
+5 "WALKING" "Body Gyroscope Magnitude" -0.480528560714286
+5 "WALKING" "Gravity Accelerometer" -0.338475624896131
+5 "WALKING" "Gravity Accelerometer Magnitude" -0.26775870389375
+5 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.0031287102858156
+5 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.111152604618404
+5 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0433904160161702
+5 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.153789190182979
+5 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.265772609590372
+5 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.196876635341667
+5 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.447081125744681
+5 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.353046957389894
+5 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.312079630099088
+5 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.208280614797872
+5 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0596835151980851
+5 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.251004278399805
+5 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.300220409446809
+5 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.129133408428989
+5 "WALKING_UPSTAIRS" "Body Gyroscope" -0.282495591339007
+5 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.24528840557961
+5 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.543826347978723
+5 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.355803595571277
+5 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.35463925656727
+5 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.0465900907835106
+6 "LAYING" "Body Accelerometer" -0.688805931981725
+6 "LAYING" "Body Accelerometer Jerk" -0.70721803194114
+6 "LAYING" "Body Accelerometer Jerk Magnitude" -0.951325143596491
+6 "LAYING" "Body Accelerometer Magnitude" -0.908482682210526
+6 "LAYING" "Body Gyroscope" -0.703228882530117
+6 "LAYING" "Body Gyroscope Jerk" -0.513879114581754
+6 "LAYING" "Body Gyroscope Jerk Magnitude" -0.954500837938597
+6 "LAYING" "Body Gyroscope Magnitude" -0.922185800350877
+6 "LAYING" "Gravity Accelerometer" -0.353214560133918
+6 "LAYING" "Gravity Accelerometer Magnitude" -0.908102548394737
+6 "SITTING" "Body Accelerometer" -0.695907934701667
+6 "SITTING" "Body Accelerometer Jerk" -0.712020630710197
+6 "SITTING" "Body Accelerometer Jerk Magnitude" -0.951642170954545
+6 "SITTING" "Body Accelerometer Magnitude" -0.939103445272727
+6 "SITTING" "Body Gyroscope" -0.713068836599394
+6 "SITTING" "Body Gyroscope Jerk" -0.506316942650061
+6 "SITTING" "Body Gyroscope Jerk Magnitude" -0.954077764772727
+6 "SITTING" "Body Gyroscope Magnitude" -0.928309526454545
+6 "SITTING" "Gravity Accelerometer" -0.305624404900242
+6 "SITTING" "Gravity Accelerometer Magnitude" -0.940558093454545
+6 "STANDING" "Body Accelerometer" -0.696398202070029
+6 "STANDING" "Body Accelerometer Jerk" -0.71645941435329
+6 "STANDING" "Body Accelerometer Jerk Magnitude" -0.958624291578947
+6 "STANDING" "Body Accelerometer Magnitude" -0.943711759429825
+6 "STANDING" "Body Gyroscope" -0.709688520650731
+6 "STANDING" "Body Gyroscope Jerk" -0.51140375294386
+6 "STANDING" "Body Gyroscope Jerk Magnitude" -0.955864023640351
+6 "STANDING" "Body Gyroscope Magnitude" -0.926267343991228
+6 "STANDING" "Gravity Accelerometer" -0.361336652545322
+6 "STANDING" "Gravity Accelerometer Magnitude" -0.942166563070175
+6 "WALKING" "Body Accelerometer" -0.151655357616725
+6 "WALKING" "Body Accelerometer Jerk" -0.182668075188158
+6 "WALKING" "Body Accelerometer Jerk Magnitude" -0.10440534613114
+6 "WALKING" "Body Accelerometer Magnitude" -0.264161145539474
+6 "WALKING" "Body Gyroscope" -0.276756994504825
+6 "WALKING" "Body Gyroscope Jerk" -0.157292556088889
+6 "WALKING" "Body Gyroscope Jerk Magnitude" -0.365144566515351
+6 "WALKING" "Body Gyroscope Magnitude" -0.371785050973684
+6 "WALKING" "Gravity Accelerometer" -0.353778667476608
+6 "WALKING" "Gravity Accelerometer Magnitude" -0.2167874405
+6 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.103751817554479
+6 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" 0.0200616139693264
+6 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.177997591704167
+6 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.311986859317708
+6 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.103070640502934
+6 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.0167733650451389
+6 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.118151007859323
+6 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.0712718234147917
+6 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.351826221903681
+6 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.3536833228125
+6 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0653231642658333
+6 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.200139870253578
+6 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.181238309428137
+6 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.0913702900153431
+6 "WALKING_UPSTAIRS" "Body Gyroscope" -0.199073922432827
+6 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.168787532515654
+6 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.424537318007353
+6 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.219453965492647
+6 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.370676287347712
+6 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.0306858933871569
+7 "LAYING" "Body Accelerometer" -0.695752426009295
+7 "LAYING" "Body Accelerometer Jerk" -0.722936295105401
+7 "LAYING" "Body Accelerometer Jerk Magnitude" -0.970215914807692
+7 "LAYING" "Body Accelerometer Magnitude" -0.920487720138462
+7 "LAYING" "Body Gyroscope" -0.714176528317003
+7 "LAYING" "Body Gyroscope Jerk" -0.524702833934295
+7 "LAYING" "Body Gyroscope Jerk Magnitude" -0.974433728605769
+7 "LAYING" "Body Gyroscope Magnitude" -0.923619832932692
+7 "LAYING" "Gravity Accelerometer" -0.338917658798077
+7 "LAYING" "Gravity Accelerometer Magnitude" -0.9217157685
+7 "SITTING" "Body Accelerometer" -0.67679268866941
+7 "SITTING" "Body Accelerometer Jerk" -0.723303282706389
+7 "SITTING" "Body Accelerometer Jerk Magnitude" -0.971563000572917
+7 "SITTING" "Body Accelerometer Magnitude" -0.899065535338542
+7 "SITTING" "Body Gyroscope" -0.712403807089271
+7 "SITTING" "Body Gyroscope Jerk" -0.519210844931944
+7 "SITTING" "Body Gyroscope Jerk Magnitude" -0.977870120677083
+7 "SITTING" "Body Gyroscope Magnitude" -0.906205195677083
+7 "SITTING" "Gravity Accelerometer" -0.28848688624375
+7 "SITTING" "Gravity Accelerometer Magnitude" -0.900194863427083
+7 "STANDING" "Body Accelerometer" -0.693378002208333
+7 "STANDING" "Body Accelerometer Jerk" -0.722900719013726
+7 "STANDING" "Body Accelerometer Jerk Magnitude" -0.969614428113208
+7 "STANDING" "Body Accelerometer Magnitude" -0.939803557877358
+7 "STANDING" "Body Gyroscope" -0.714074807725613
+7 "STANDING" "Body Gyroscope Jerk" -0.517826779133648
+7 "STANDING" "Body Gyroscope Jerk Magnitude" -0.9737639
+7 "STANDING" "Body Gyroscope Magnitude" -0.930104411839623
+7 "STANDING" "Gravity Accelerometer" -0.350629541748428
+7 "STANDING" "Gravity Accelerometer Magnitude" -0.938157408018868
+7 "WALKING" "Body Accelerometer" -0.0666590213464035
+7 "WALKING" "Body Accelerometer Jerk" -0.139614840625921
+7 "WALKING" "Body Accelerometer Jerk Magnitude" -0.0702658293926316
+7 "WALKING" "Body Accelerometer Magnitude" -0.199828545608772
+7 "WALKING" "Body Gyroscope" -0.275214831821696
+7 "WALKING" "Body Gyroscope Jerk" -0.177018131837591
+7 "WALKING" "Body Gyroscope Jerk Magnitude" -0.158717282335833
+7 "WALKING" "Body Gyroscope Magnitude" -0.260261799693728
+7 "WALKING" "Gravity Accelerometer" -0.381465442075143
+7 "WALKING" "Gravity Accelerometer Magnitude" -0.148181876164912
+7 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0355396232800532
+7 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.160233883774557
+7 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.0237776837716489
+7 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.11869468013867
+7 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.272713961130656
+7 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.235386051359574
+7 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.33416250223883
+7 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.275111782856383
+7 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.366749117395745
+7 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.117211778336915
+7 "WALKING_UPSTAIRS" "Body Accelerometer" -0.20586529737549
+7 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.386487839718301
+7 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.470546388480392
+7 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.331686228416176
+7 "WALKING_UPSTAIRS" "Body Gyroscope" -0.332457259001193
+7 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.362763053253595
+7 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.678954023578431
+7 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.409055361387255
+7 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.430012885359477
+7 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.266409522714706
+8 "LAYING" "Body Accelerometer" -0.693731365029259
+8 "LAYING" "Body Accelerometer Jerk" -0.721379169012222
+8 "LAYING" "Body Accelerometer Jerk Magnitude" -0.96542148837963
+8 "LAYING" "Body Accelerometer Magnitude" -0.924524147208333
+8 "LAYING" "Body Gyroscope" -0.716836644658488
+8 "LAYING" "Body Gyroscope Jerk" -0.524423762707099
+8 "LAYING" "Body Gyroscope Jerk Magnitude" -0.971916132175926
+8 "LAYING" "Body Gyroscope Magnitude" -0.93451000837963
+8 "LAYING" "Gravity Accelerometer" -0.319145925703704
+8 "LAYING" "Gravity Accelerometer Magnitude" -0.924279481944444
+8 "SITTING" "Body Accelerometer" -0.700865142706159
+8 "SITTING" "Body Accelerometer Jerk" -0.732847939642044
+8 "SITTING" "Body Accelerometer Jerk Magnitude" -0.981745348423913
+8 "SITTING" "Body Accelerometer Magnitude" -0.94044658586413
+8 "SITTING" "Body Gyroscope" -0.73598140873913
+8 "SITTING" "Body Gyroscope Jerk" -0.524089659282609
+8 "SITTING" "Body Gyroscope Jerk Magnitude" -0.988110491413044
+8 "SITTING" "Body Gyroscope Magnitude" -0.951185455326087
+8 "SITTING" "Gravity Accelerometer" -0.25054190323913
+8 "SITTING" "Gravity Accelerometer Magnitude" -0.94104165998913
+8 "STANDING" "Body Accelerometer" -0.702371479493519
+8 "STANDING" "Body Accelerometer Jerk" -0.729971052791111
+8 "STANDING" "Body Accelerometer Jerk Magnitude" -0.980933587453704
+8 "STANDING" "Body Accelerometer Magnitude" -0.945831081589815
+8 "STANDING" "Body Gyroscope" -0.728236495936574
+8 "STANDING" "Body Gyroscope Jerk" -0.525079619776543
+8 "STANDING" "Body Gyroscope Jerk Magnitude" -0.983895622407407
+8 "STANDING" "Body Gyroscope Magnitude" -0.956189334212963
+8 "STANDING" "Gravity Accelerometer" -0.349269645865309
+8 "STANDING" "Gravity Accelerometer Magnitude" -0.945475034648148
+8 "WALKING" "Body Accelerometer" 0.00523655288473958
+8 "WALKING" "Body Accelerometer Jerk" -0.108116787408837
+8 "WALKING" "Body Accelerometer Jerk Magnitude" -0.162918459228542
+8 "WALKING" "Body Accelerometer Magnitude" -0.14619122901875
+8 "WALKING" "Body Gyroscope" -0.130891322014688
+8 "WALKING" "Body Gyroscope Jerk" -0.213704723460069
+8 "WALKING" "Body Gyroscope Jerk Magnitude" -0.474088236666667
+8 "WALKING" "Body Gyroscope Magnitude" -0.217637642175313
+8 "WALKING" "Gravity Accelerometer" -0.396326224042281
+8 "WALKING" "Gravity Accelerometer Magnitude" -0.0643643273947917
+8 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.130723726542544
+8 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" 0.118523336604386
+8 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.245574984381579
+8 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.113355710698026
+8 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.0854023913704825
+8 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.117193439978596
+8 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.167959516620395
+8 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.0508098141710526
+8 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.366657031441316
+8 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.153968589527632
+8 "WALKING_UPSTAIRS" "Body Accelerometer" 0.0584761382979675
+8 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.171403224738374
+8 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.220227011213415
+8 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.161430248945732
+8 "WALKING_UPSTAIRS" "Body Gyroscope" -0.0468864276203252
+8 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.249481218939431
+8 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.483410728658537
+8 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.0889541331432927
+8 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.392859003397967
+8 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.0530868125121951
+9 "LAYING" "Body Accelerometer" -0.6909295160585
+9 "LAYING" "Body Accelerometer Jerk" -0.714497028875033
+9 "LAYING" "Body Accelerometer Jerk Magnitude" -0.95695416305
+9 "LAYING" "Body Accelerometer Magnitude" -0.9236323178385
+9 "LAYING" "Body Gyroscope" -0.713468362124667
+9 "LAYING" "Body Gyroscope Jerk" -0.512153903611333
+9 "LAYING" "Body Gyroscope Jerk Magnitude" -0.9563557759
+9 "LAYING" "Body Gyroscope Magnitude" -0.90692222265
+9 "LAYING" "Gravity Accelerometer" -0.434092371733333
+9 "LAYING" "Gravity Accelerometer Magnitude" -0.92299761888
+9 "SITTING" "Body Accelerometer" -0.660354719122
+9 "SITTING" "Body Accelerometer Jerk" -0.71469253710125
+9 "SITTING" "Body Accelerometer Jerk Magnitude" -0.9546523556
+9 "SITTING" "Body Accelerometer Magnitude" -0.8810022151
+9 "SITTING" "Body Gyroscope" -0.704023049092267
+9 "SITTING" "Body Gyroscope Jerk" -0.516295737644333
+9 "SITTING" "Body Gyroscope Jerk Magnitude" -0.96850945315
+9 "SITTING" "Body Gyroscope Magnitude" -0.9126877061
+9 "SITTING" "Gravity Accelerometer" -0.3045707836283
+9 "SITTING" "Gravity Accelerometer Magnitude" -0.8785590759
+9 "STANDING" "Body Accelerometer" -0.696262341609444
+9 "STANDING" "Body Accelerometer Jerk" -0.719433668044981
+9 "STANDING" "Body Accelerometer Jerk Magnitude" -0.965031200055556
+9 "STANDING" "Body Accelerometer Magnitude" -0.941967052777778
+9 "STANDING" "Body Gyroscope" -0.701942532618315
+9 "STANDING" "Body Gyroscope Jerk" -0.514876780022963
+9 "STANDING" "Body Gyroscope Jerk Magnitude" -0.966843380555556
+9 "STANDING" "Body Gyroscope Magnitude" -0.917500088388889
+9 "STANDING" "Gravity Accelerometer" -0.322305824167889
+9 "STANDING" "Gravity Accelerometer Magnitude" -0.940636246444444
+9 "WALKING" "Body Accelerometer" -0.135617094917979
+9 "WALKING" "Body Accelerometer Jerk" -0.224737143379006
+9 "WALKING" "Body Accelerometer Jerk Magnitude" -0.290013838735577
+9 "WALKING" "Body Accelerometer Magnitude" -0.327551448898779
+9 "WALKING" "Body Gyroscope" -0.303519492747756
+9 "WALKING" "Body Gyroscope Jerk" -0.285659407560513
+9 "WALKING" "Body Gyroscope Jerk Magnitude" -0.584263502596154
+9 "WALKING" "Body Gyroscope Magnitude" -0.465195021850962
+9 "WALKING" "Gravity Accelerometer" -0.350526934607628
+9 "WALKING" "Gravity Accelerometer Magnitude" -0.238756409807173
+9 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.00498812395783135
+9 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.165252800778175
+9 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0111867195136905
+9 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.180519399426429
+9 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.25796815420627
+9 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.266278568663095
+9 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.468303705
+9 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.31574095730119
+9 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.324029657170754
+9 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.205503244650476
+9 "WALKING_UPSTAIRS" "Body Accelerometer" -0.23694876048177
+9 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.392634707353129
+9 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.447655449693878
+9 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.385942357244898
+9 "WALKING_UPSTAIRS" "Body Gyroscope" -0.246879755257347
+9 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.358086667649796
+9 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.735858214387755
+9 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.374371807379082
+9 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.358488138180272
+9 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.330474809285714
+10 "LAYING" "Body Accelerometer" -0.708106648619253
+10 "LAYING" "Body Accelerometer Jerk" -0.722480618028779
+10 "LAYING" "Body Accelerometer Jerk Magnitude" -0.969432522715517
+10 "LAYING" "Body Accelerometer Magnitude" -0.948059139482759
+10 "LAYING" "Body Gyroscope" -0.72089155109704
+10 "LAYING" "Body Gyroscope Jerk" -0.519122243156322
+10 "LAYING" "Body Gyroscope Jerk Magnitude" -0.963053369396552
+10 "LAYING" "Body Gyroscope Magnitude" -0.934114030560345
+10 "LAYING" "Gravity Accelerometer" -0.584627963853448
+10 "LAYING" "Gravity Accelerometer Magnitude" -0.948541737068965
+10 "SITTING" "Body Accelerometer" -0.706552644500015
+10 "SITTING" "Body Accelerometer Jerk" -0.732794222755
+10 "SITTING" "Body Accelerometer Jerk Magnitude" -0.98560790912037
+10 "SITTING" "Body Accelerometer Magnitude" -0.949304938657407
+10 "SITTING" "Body Gyroscope" -0.737008472537037
+10 "SITTING" "Body Gyroscope Jerk" -0.526398218904815
+10 "SITTING" "Body Gyroscope Jerk Magnitude" -0.992251078564815
+10 "SITTING" "Body Gyroscope Magnitude" -0.9610465775
+10 "SITTING" "Gravity Accelerometer" -0.320425980848765
+10 "SITTING" "Gravity Accelerometer Magnitude" -0.950213395555556
+10 "STANDING" "Body Accelerometer" -0.698145979882576
+10 "STANDING" "Body Accelerometer Jerk" -0.713744388299849
+10 "STANDING" "Body Accelerometer Jerk Magnitude" -0.955240421988636
+10 "STANDING" "Body Accelerometer Magnitude" -0.943602964090909
+10 "STANDING" "Body Gyroscope" -0.711656145402765
+10 "STANDING" "Body Gyroscope Jerk" -0.516032163940152
+10 "STANDING" "Body Gyroscope Jerk Magnitude" -0.966679242215909
+10 "STANDING" "Body Gyroscope Magnitude" -0.927755590965909
+10 "STANDING" "Gravity Accelerometer" -0.330117140560985
+10 "STANDING" "Gravity Accelerometer Magnitude" -0.944626722954545
+10 "WALKING" "Body Accelerometer" -0.140752642525943
+10 "WALKING" "Body Accelerometer Jerk" -0.128786173901635
+10 "WALKING" "Body Accelerometer Jerk Magnitude" -0.00607223477301415
+10 "WALKING" "Body Accelerometer Magnitude" -0.194124748594811
+10 "WALKING" "Body Gyroscope" -0.20665084466752
+10 "WALKING" "Body Gyroscope Jerk" -0.240097149704088
+10 "WALKING" "Body Gyroscope Jerk Magnitude" -0.493533172028302
+10 "WALKING" "Body Gyroscope Magnitude" -0.36771514315566
+10 "WALKING" "Gravity Accelerometer" -0.328203422264151
+10 "WALKING" "Gravity Accelerometer Magnitude" -0.156501654068868
+10 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.0279770316156798
+10 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.0549494771304605
+10 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.0891457427094737
+10 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.141570848525658
+10 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.174287180005943
+10 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.216855003920614
+10 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.481286267894737
+10 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.251089317261842
+10 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.310215629415789
+10 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.203920987407895
+10 "WALKING_UPSTAIRS" "Body Accelerometer" -0.07033082643
+10 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.250581114804149
+10 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.243991607887234
+10 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.191626016486362
+10 "WALKING_UPSTAIRS" "Body Gyroscope" -0.151046287323759
+10 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.290852461013298
+10 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.60340222106383
+10 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.125386588943191
+10 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.310492426384833
+10 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.119099904845064
+11 "LAYING" "Body Accelerometer" -0.71945837360848
+11 "LAYING" "Body Accelerometer Jerk" -0.727561006911009
+11 "LAYING" "Body Accelerometer Jerk Magnitude" -0.977975698245614
+11 "LAYING" "Body Accelerometer Magnitude" -0.97588617745614
+11 "LAYING" "Body Gyroscope" -0.723368633612105
+11 "LAYING" "Body Gyroscope Jerk" -0.528225336710526
+11 "LAYING" "Body Gyroscope Jerk Magnitude" -0.986166507587719
+11 "LAYING" "Body Gyroscope Magnitude" -0.95729483622807
+11 "LAYING" "Gravity Accelerometer" -0.338952948076023
+11 "LAYING" "Gravity Accelerometer Magnitude" -0.976756504824561
+11 "SITTING" "Body Accelerometer" -0.706991629592453
+11 "SITTING" "Body Accelerometer Jerk" -0.72583631408577
+11 "SITTING" "Body Accelerometer Jerk Magnitude" -0.975367956886792
+11 "SITTING" "Body Accelerometer Magnitude" -0.952035146320755
+11 "SITTING" "Body Gyroscope" -0.734411566808176
+11 "SITTING" "Body Gyroscope Jerk" -0.524122597084277
+11 "SITTING" "Body Gyroscope Jerk Magnitude" -0.987159724433962
+11 "SITTING" "Body Gyroscope Magnitude" -0.960590038349057
+11 "SITTING" "Gravity Accelerometer" -0.272551953989937
+11 "SITTING" "Gravity Accelerometer Magnitude" -0.95327629509434
+11 "STANDING" "Body Accelerometer" -0.724077088221631
+11 "STANDING" "Body Accelerometer Jerk" -0.733293626776277
+11 "STANDING" "Body Accelerometer Jerk Magnitude" -0.98868854106383
+11 "STANDING" "Body Accelerometer Magnitude" -0.982229647180851
+11 "STANDING" "Body Gyroscope" -0.740887718602837
+11 "STANDING" "Body Gyroscope Jerk" -0.52741951643617
+11 "STANDING" "Body Gyroscope Jerk Magnitude" -0.99281645962766
+11 "STANDING" "Body Gyroscope Magnitude" -0.979265919893617
+11 "STANDING" "Gravity Accelerometer" -0.342405037624113
+11 "STANDING" "Gravity Accelerometer Magnitude" -0.982579602765957
+11 "WALKING" "Body Accelerometer" -0.250499206115734
+11 "WALKING" "Body Accelerometer Jerk" -0.333963489552966
+11 "WALKING" "Body Accelerometer Jerk Magnitude" -0.404509359152542
+11 "WALKING" "Body Accelerometer Magnitude" -0.454757360423729
+11 "WALKING" "Body Gyroscope" -0.38670845861272
+11 "WALKING" "Body Gyroscope Jerk" -0.334699252533051
+11 "WALKING" "Body Gyroscope Jerk Magnitude" -0.727473160974576
+11 "WALKING" "Body Gyroscope Magnitude" -0.547533130847458
+11 "WALKING" "Gravity Accelerometer" -0.339953075957627
+11 "WALKING" "Gravity Accelerometer Magnitude" -0.388029693559322
+11 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0340128930853442
+11 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.201115082618478
+11 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.149085028422826
+11 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.032539929951087
+11 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.306610290551449
+11 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.301825197565942
+11 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.664903886521739
+11 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.343490681153804
+11 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.32213778759058
+11 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.0885010112554348
+11 "WALKING_UPSTAIRS" "Body Accelerometer" -0.165112786043827
+11 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.417833538497191
+11 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.497426367916667
+11 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.283568919550926
+11 "WALKING_UPSTAIRS" "Body Gyroscope" -0.390180289542593
+11 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.404941386848611
+11 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.794214171527778
+11 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.391070310532407
+11 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.348179021996914
+11 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.211093385953704
+12 "LAYING" "Body Accelerometer" -0.702896616129
+12 "LAYING" "Body Accelerometer Jerk" -0.718591356526156
+12 "LAYING" "Body Accelerometer Jerk Magnitude" -0.964131543
+12 "LAYING" "Body Accelerometer Magnitude" -0.94268701435
+12 "LAYING" "Body Gyroscope" -0.713254178095694
+12 "LAYING" "Body Gyroscope Jerk" -0.518508527346944
+12 "LAYING" "Body Gyroscope Jerk Magnitude" -0.964735251666667
+12 "LAYING" "Body Gyroscope Magnitude" -0.938109289875
+12 "LAYING" "Gravity Accelerometer" -0.36177813165
+12 "LAYING" "Gravity Accelerometer Magnitude" -0.942373681166667
+12 "SITTING" "Body Accelerometer" -0.70174270122299
+12 "SITTING" "Body Accelerometer Jerk" -0.72306665462317
+12 "SITTING" "Body Accelerometer Jerk Magnitude" -0.973036773627451
+12 "SITTING" "Body Accelerometer Magnitude" -0.951571290882353
+12 "SITTING" "Body Gyroscope" -0.725780470648693
+12 "SITTING" "Body Gyroscope Jerk" -0.519705036258824
+12 "SITTING" "Body Gyroscope Jerk Magnitude" -0.979098428578431
+12 "SITTING" "Body Gyroscope Magnitude" -0.948912331960784
+12 "SITTING" "Gravity Accelerometer" -0.301201717499346
+12 "SITTING" "Gravity Accelerometer Magnitude" -0.949846860784314
+12 "STANDING" "Body Accelerometer" -0.695600186291667
+12 "STANDING" "Body Accelerometer Jerk" -0.719333081592678
+12 "STANDING" "Body Accelerometer Jerk Magnitude" -0.964118536311475
+12 "STANDING" "Body Accelerometer Magnitude" -0.940413153032787
+12 "STANDING" "Body Gyroscope" -0.697470096564891
+12 "STANDING" "Body Gyroscope Jerk" -0.514529502738251
+12 "STANDING" "Body Gyroscope Jerk Magnitude" -0.964295669139344
+12 "STANDING" "Body Gyroscope Magnitude" -0.873190732090164
+12 "STANDING" "Gravity Accelerometer" -0.366069455766557
+12 "STANDING" "Gravity Accelerometer Magnitude" -0.938346440163934
+12 "WALKING" "Body Accelerometer" -0.156102990327167
+12 "WALKING" "Body Accelerometer Jerk" -0.15963362621105
+12 "WALKING" "Body Accelerometer Jerk Magnitude" -0.0520540767905
+12 "WALKING" "Body Accelerometer Magnitude" -0.225297430363
+12 "WALKING" "Body Gyroscope" -0.335928875666283
+12 "WALKING" "Body Gyroscope Jerk" -0.268594246720767
+12 "WALKING" "Body Gyroscope Jerk Magnitude" -0.54812367
+12 "WALKING" "Body Gyroscope Magnitude" -0.42661117633
+12 "WALKING" "Gravity Accelerometer" -0.353200457313333
+12 "WALKING" "Gravity Accelerometer Magnitude" -0.169588709634
+12 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0640254062527654
+12 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.115986397661576
+12 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.0193867675097826
+12 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.0396167669461957
+12 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.287001132542572
+12 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.219004680822101
+12 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.460072232326087
+12 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.325575632225761
+12 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.353857841823551
+12 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.0577873852141304
+12 "WALKING_UPSTAIRS" "Body Accelerometer" -0.214143976372917
+12 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.349914852210737
+12 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.357436718365385
+12 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.300079628221154
+12 "WALKING_UPSTAIRS" "Body Gyroscope" -0.360108828702564
+12 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.343671361832051
+12 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.708960550288461
+12 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.500179034232212
+12 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.371786489483974
+12 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.257513981634615
+13 "LAYING" "Body Accelerometer" -0.707118308806048
+13 "LAYING" "Body Accelerometer Jerk" -0.730176423715793
+13 "LAYING" "Body Accelerometer Jerk Magnitude" -0.981083208185484
+13 "LAYING" "Body Accelerometer Magnitude" -0.954357331895161
+13 "LAYING" "Body Gyroscope" -0.725100699330898
+13 "LAYING" "Body Gyroscope Jerk" -0.526424675890591
+13 "LAYING" "Body Gyroscope Jerk Magnitude" -0.977877254193548
+13 "LAYING" "Body Gyroscope Magnitude" -0.948201411572581
+13 "LAYING" "Gravity Accelerometer" -0.299213753013441
+13 "LAYING" "Gravity Accelerometer Magnitude" -0.954231257419355
+13 "SITTING" "Body Accelerometer" -0.70493409360017
+13 "SITTING" "Body Accelerometer Jerk" -0.736986616596832
+13 "SITTING" "Body Accelerometer Jerk Magnitude" -0.988747943979592
+13 "SITTING" "Body Accelerometer Magnitude" -0.947764448229592
+13 "SITTING" "Body Gyroscope" -0.737028582222976
+13 "SITTING" "Body Gyroscope Jerk" -0.526095740955442
+13 "SITTING" "Body Gyroscope Jerk Magnitude" -0.991740606734694
+13 "SITTING" "Body Gyroscope Magnitude" -0.963152402704082
+13 "SITTING" "Gravity Accelerometer" -0.293431347255102
+13 "SITTING" "Gravity Accelerometer Magnitude" -0.947813151122449
+13 "STANDING" "Body Accelerometer" -0.71571688508421
+13 "STANDING" "Body Accelerometer Jerk" -0.731293046383203
+13 "STANDING" "Body Accelerometer Jerk Magnitude" -0.982816110833333
+13 "STANDING" "Body Accelerometer Magnitude" -0.970730713859649
+13 "STANDING" "Body Gyroscope" -0.727281053222602
+13 "STANDING" "Body Gyroscope Jerk" -0.522993027252924
+13 "STANDING" "Body Gyroscope Jerk Magnitude" -0.978375007149123
+13 "STANDING" "Body Gyroscope Magnitude" -0.951787963947368
+13 "STANDING" "Gravity Accelerometer" -0.382245715964912
+13 "STANDING" "Gravity Accelerometer Magnitude" -0.970041958508772
+13 "WALKING" "Body Accelerometer" -0.108091462159854
+13 "WALKING" "Body Accelerometer Jerk" -0.138069882423187
+13 "WALKING" "Body Accelerometer Jerk Magnitude" -0.132674247003596
+13 "WALKING" "Body Accelerometer Magnitude" -0.275295016118421
+13 "WALKING" "Body Gyroscope" -0.248637163556345
+13 "WALKING" "Body Gyroscope Jerk" -0.184775483237719
+13 "WALKING" "Body Gyroscope Jerk Magnitude" -0.328359833710526
+13 "WALKING" "Body Gyroscope Magnitude" -0.279833459925439
+13 "WALKING" "Gravity Accelerometer" -0.397697491005848
+13 "WALKING" "Gravity Accelerometer Magnitude" -0.214095122429825
+13 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.061180771528617
+13 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.140264884206823
+13 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0676317713747872
+13 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.0507767070388298
+13 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.230751381976897
+13 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.212142141353901
+13 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.302384678515426
+13 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.236389720106383
+13 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.35665199434727
+13 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.0225366249191489
+13 "WALKING_UPSTAIRS" "Body Accelerometer" -0.124291350585727
+13 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.371558996237424
+13 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.455901800181818
+13 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.301020360298636
+13 "WALKING_UPSTAIRS" "Body Gyroscope" -0.300298819145606
+13 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.339779358566364
+13 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.667382832318182
+13 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.402272418392727
+13 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.416007487673212
+13 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.213746561960909
+14 "LAYING" "Body Accelerometer" -0.674655501138562
+14 "LAYING" "Body Accelerometer Jerk" -0.723502750406912
+14 "LAYING" "Body Accelerometer Jerk Magnitude" -0.967655833039216
+14 "LAYING" "Body Accelerometer Magnitude" -0.880410271328431
+14 "LAYING" "Body Gyroscope" -0.710492147994085
+14 "LAYING" "Body Gyroscope Jerk" -0.519560132143101
+14 "LAYING" "Body Gyroscope Jerk Magnitude" -0.967438116568627
+14 "LAYING" "Body Gyroscope Magnitude" -0.916502610098039
+14 "LAYING" "Gravity Accelerometer" -0.255956575238562
+14 "LAYING" "Gravity Accelerometer Magnitude" -0.881285684705882
+14 "SITTING" "Body Accelerometer" -0.691827435869599
+14 "SITTING" "Body Accelerometer Jerk" -0.726492978078824
+14 "SITTING" "Body Accelerometer Jerk Magnitude" -0.973952286851852
+14 "SITTING" "Body Accelerometer Magnitude" -0.934869390972222
+14 "SITTING" "Body Gyroscope" -0.726629363447531
+14 "SITTING" "Body Gyroscope Jerk" -0.52460767519537
+14 "SITTING" "Body Gyroscope Jerk Magnitude" -0.98741775337963
+14 "SITTING" "Body Gyroscope Magnitude" -0.949919007962963
+14 "SITTING" "Gravity Accelerometer" -0.342838415186111
+14 "SITTING" "Gravity Accelerometer Magnitude" -0.934846886666667
+14 "STANDING" "Body Accelerometer" -0.694774499658111
+14 "STANDING" "Body Accelerometer Jerk" -0.72308062457721
+14 "STANDING" "Body Accelerometer Jerk Magnitude" -0.970823653125
+14 "STANDING" "Body Accelerometer Magnitude" -0.942426838541667
+14 "STANDING" "Body Gyroscope" -0.714080992054097
+14 "STANDING" "Body Gyroscope Jerk" -0.518660242068861
+14 "STANDING" "Body Gyroscope Jerk Magnitude" -0.96922561025
+14 "STANDING" "Body Gyroscope Magnitude" -0.938544336333333
+14 "STANDING" "Gravity Accelerometer" -0.428015280583333
+14 "STANDING" "Gravity Accelerometer Magnitude" -0.94009621225
+14 "WALKING" "Body Accelerometer" -0.116587599342232
+14 "WALKING" "Body Accelerometer Jerk" -0.315641007870946
+14 "WALKING" "Body Accelerometer Jerk Magnitude" -0.425514383983051
+14 "WALKING" "Body Accelerometer Magnitude" -0.334804270021186
+14 "WALKING" "Body Gyroscope" -0.203406448071723
+14 "WALKING" "Body Gyroscope Jerk" -0.299853483474653
+14 "WALKING" "Body Gyroscope Jerk Magnitude" -0.593178239745763
+14 "WALKING" "Body Gyroscope Magnitude" -0.228875418398305
+14 "WALKING" "Gravity Accelerometer" -0.461104319943503
+14 "WALKING" "Gravity Accelerometer Magnitude" -0.254105149788136
+14 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.20313381535813
+14 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" 0.0103637550489074
+14 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.152638969659222
+14 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.316133341372778
+14 "WALKING_DOWNSTAIRS" "Body Gyroscope" 0.00609107004633333
+14 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.16236860023
+14 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.290365361207556
+14 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.0507146791206111
+14 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.42665069637037
+14 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.306971814744444
+14 "WALKING_UPSTAIRS" "Body Accelerometer" 0.113276263771096
+14 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.26136230874213
+14 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.32983552146713
+14 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.0247248837513889
+14 "WALKING_UPSTAIRS" "Body Gyroscope" 0.0899287563789352
+14 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.256778797596296
+14 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.476988983014352
+14 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" 0.237818482152778
+14 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.473453142376543
+14 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" 0.060169767775
+15 "LAYING" "Body Accelerometer" -0.704880212076146
+15 "LAYING" "Body Accelerometer Jerk" -0.725933487679352
+15 "LAYING" "Body Accelerometer Jerk Magnitude" -0.974936497916667
+15 "LAYING" "Body Accelerometer Magnitude" -0.950041090868056
+15 "LAYING" "Body Gyroscope" -0.716361895295255
+15 "LAYING" "Body Gyroscope Jerk" -0.52346793085787
+15 "LAYING" "Body Gyroscope Jerk Magnitude" -0.976314657916667
+15 "LAYING" "Body Gyroscope Magnitude" -0.934785755520833
+15 "LAYING" "Gravity Accelerometer" -0.367987680726852
+15 "LAYING" "Gravity Accelerometer Magnitude" -0.949327384722222
+15 "SITTING" "Body Accelerometer" -0.704360958521751
+15 "SITTING" "Body Accelerometer Jerk" -0.732839381901912
+15 "SITTING" "Body Accelerometer Jerk Magnitude" -0.984678136610169
+15 "SITTING" "Body Accelerometer Magnitude" -0.946898920330508
+15 "SITTING" "Body Gyroscope" -0.734233342760876
+15 "SITTING" "Body Gyroscope Jerk" -0.526421028611836
+15 "SITTING" "Body Gyroscope Jerk Magnitude" -0.990398461101695
+15 "SITTING" "Body Gyroscope Magnitude" -0.964486777881356
+15 "SITTING" "Gravity Accelerometer" -0.295854454563672
+15 "SITTING" "Gravity Accelerometer Magnitude" -0.948323870932203
+15 "STANDING" "Body Accelerometer" -0.706805578147956
+15 "STANDING" "Body Accelerometer Jerk" -0.728588446315791
+15 "STANDING" "Body Accelerometer Jerk Magnitude" -0.980188199622641
+15 "STANDING" "Body Accelerometer Magnitude" -0.955087359764151
+15 "STANDING" "Body Gyroscope" -0.72384018140794
+15 "STANDING" "Body Gyroscope Jerk" -0.523067129430189
+15 "STANDING" "Body Gyroscope Jerk Magnitude" -0.982339426698113
+15 "STANDING" "Body Gyroscope Magnitude" -0.940955090943396
+15 "STANDING" "Gravity Accelerometer" -0.341252815440252
+15 "STANDING" "Gravity Accelerometer Magnitude" -0.954904024433962
+15 "WALKING" "Body Accelerometer" -0.175735789758827
+15 "WALKING" "Body Accelerometer Jerk" -0.27449758807835
+15 "WALKING" "Body Accelerometer Jerk Magnitude" -0.315591657097222
+15 "WALKING" "Body Accelerometer Magnitude" -0.310973502325694
+15 "WALKING" "Body Gyroscope" -0.315565222271111
+15 "WALKING" "Body Gyroscope Jerk" -0.293643352201173
+15 "WALKING" "Body Gyroscope Jerk Magnitude" -0.620212695324074
+15 "WALKING" "Body Gyroscope Magnitude" -0.410106548953704
+15 "WALKING" "Gravity Accelerometer" -0.352361795407407
+15 "WALKING" "Gravity Accelerometer Magnitude" -0.255196487416667
+15 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.0705825833648611
+15 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.0707096031126389
+15 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.107821547161488
+15 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.289481950666667
+15 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.242652499601091
+15 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.259533863059524
+15 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.557993838571429
+15 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.282305467506548
+15 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.326463092912024
+15 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.336826697630952
+15 "WALKING_UPSTAIRS" "Body Accelerometer" -0.114889355885764
+15 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.316201038690712
+15 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.320671003635417
+15 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.139606275249479
+15 "WALKING_UPSTAIRS" "Body Gyroscope" -0.313706281827726
+15 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.367374543929167
+15 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.734279701875
+15 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.312981429685938
+15 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.352844259256944
+15 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.068761806103125
+16 "LAYING" "Body Accelerometer" -0.710115204501119
+16 "LAYING" "Body Accelerometer Jerk" -0.732793487645899
+16 "LAYING" "Body Accelerometer Jerk Magnitude" -0.987750586321429
+16 "LAYING" "Body Accelerometer Magnitude" -0.961465744928571
+16 "LAYING" "Body Gyroscope" -0.736255606885714
+16 "LAYING" "Body Gyroscope Jerk" -0.527334890240714
+16 "LAYING" "Body Gyroscope Jerk Magnitude" -0.988951407642857
+16 "LAYING" "Body Gyroscope Magnitude" -0.960005464678571
+16 "LAYING" "Gravity Accelerometer" -0.371760229992857
+16 "LAYING" "Gravity Accelerometer Magnitude" -0.959865281285714
+16 "SITTING" "Body Accelerometer" -0.706346159880072
+16 "SITTING" "Body Accelerometer Jerk" -0.733118070148756
+16 "SITTING" "Body Accelerometer Jerk Magnitude" -0.984311805978261
+16 "SITTING" "Body Accelerometer Magnitude" -0.950963661913043
+16 "SITTING" "Body Gyroscope" -0.727075075467995
+16 "SITTING" "Body Gyroscope Jerk" -0.528027316941546
+16 "SITTING" "Body Gyroscope Jerk Magnitude" -0.989393836050725
+16 "SITTING" "Body Gyroscope Magnitude" -0.944320999130435
+16 "SITTING" "Gravity Accelerometer" -0.324809611282126
+16 "SITTING" "Gravity Accelerometer Magnitude" -0.951465458405797
+16 "STANDING" "Body Accelerometer" -0.713680060231731
+16 "STANDING" "Body Accelerometer Jerk" -0.733755183694841
+16 "STANDING" "Body Accelerometer Jerk Magnitude" -0.987095546826923
+16 "STANDING" "Body Accelerometer Magnitude" -0.963874862403846
+16 "STANDING" "Body Gyroscope" -0.735331846238782
+16 "STANDING" "Body Gyroscope Jerk" -0.528238228829915
+16 "STANDING" "Body Gyroscope Jerk Magnitude" -0.991375808557692
+16 "STANDING" "Body Gyroscope Magnitude" -0.968914328717949
+16 "STANDING" "Gravity Accelerometer" -0.368085229952991
+16 "STANDING" "Gravity Accelerometer Magnitude" -0.963621659807692
+16 "WALKING" "Body Accelerometer" -0.219738990747075
+16 "WALKING" "Body Accelerometer Jerk" -0.315239451003431
+16 "WALKING" "Body Accelerometer Jerk Magnitude" -0.396564323137255
+16 "WALKING" "Body Accelerometer Magnitude" -0.433297547156863
+16 "WALKING" "Body Gyroscope" -0.414368602647451
+16 "WALKING" "Body Gyroscope Jerk" -0.361165992461438
+16 "WALKING" "Body Gyroscope Jerk Magnitude" -0.715189854117647
+16 "WALKING" "Body Gyroscope Magnitude" -0.635343969852941
+16 "WALKING" "Gravity Accelerometer" -0.379306034545752
+16 "WALKING" "Gravity Accelerometer Magnitude" -0.365287980784314
+16 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.00858448416620567
+16 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.173182083661667
+16 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.102696735848138
+16 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.092720476213883
+16 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.355538683534752
+16 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.328269613184965
+16 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.602465451382979
+16 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.425082382382979
+16 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.364984865315603
+16 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.155131767112872
+16 "WALKING_UPSTAIRS" "Body Accelerometer" -0.190164732821503
+16 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.380307153725327
+16 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.492953784362745
+16 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.339589851519608
+16 "WALKING_UPSTAIRS" "Body Gyroscope" -0.380642691289869
+16 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.400838330064575
+16 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.7870365875
+16 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.497370902892157
+16 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.403749765098039
+16 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.284392705882353
+17 "LAYING" "Body Accelerometer" -0.707088592430493
+17 "LAYING" "Body Accelerometer Jerk" -0.728408691043157
+17 "LAYING" "Body Accelerometer Jerk Magnitude" -0.98026973084507
+17 "LAYING" "Body Accelerometer Magnitude" -0.952842065669014
+17 "LAYING" "Body Gyroscope" -0.731503578170779
+17 "LAYING" "Body Gyroscope Jerk" -0.525148044183099
+17 "LAYING" "Body Gyroscope Jerk Magnitude" -0.983082374084507
+17 "LAYING" "Body Gyroscope Magnitude" -0.962274226091549
+17 "LAYING" "Gravity Accelerometer" -0.282896330751174
+17 "LAYING" "Gravity Accelerometer Magnitude" -0.950639702323944
+17 "SITTING" "Body Accelerometer" -0.719046797874219
+17 "SITTING" "Body Accelerometer Jerk" -0.736785498527812
+17 "SITTING" "Body Accelerometer Jerk Magnitude" -0.9915020228125
+17 "SITTING" "Body Accelerometer Magnitude" -0.969209743046875
+17 "SITTING" "Body Gyroscope" -0.741132229473047
+17 "SITTING" "Body Gyroscope Jerk" -0.528421752809948
+17 "SITTING" "Body Gyroscope Jerk Magnitude" -0.9949026596875
+17 "SITTING" "Body Gyroscope Magnitude" -0.975167036132813
+17 "SITTING" "Gravity Accelerometer" -0.351210362371094
+17 "SITTING" "Gravity Accelerometer Magnitude" -0.96890626875
+17 "STANDING" "Body Accelerometer" -0.720898286970716
+17 "STANDING" "Body Accelerometer Jerk" -0.736145047047489
+17 "STANDING" "Body Accelerometer Jerk Magnitude" -0.990435221826923
+17 "STANDING" "Body Accelerometer Magnitude" -0.977371470032051
+17 "STANDING" "Body Gyroscope" -0.739537149310171
+17 "STANDING" "Body Gyroscope Jerk" -0.52860973025
+17 "STANDING" "Body Gyroscope Jerk Magnitude" -0.99273658349359
+17 "STANDING" "Body Gyroscope Magnitude" -0.979354991057692
+17 "STANDING" "Gravity Accelerometer" -0.41437160525
+17 "STANDING" "Gravity Accelerometer Magnitude" -0.976506645641026
+17 "WALKING" "Body Accelerometer" -0.157542096611134
+17 "WALKING" "Body Accelerometer Jerk" -0.245376111603689
+17 "WALKING" "Body Accelerometer Jerk Magnitude" -0.280984201848361
+17 "WALKING" "Body Accelerometer Magnitude" -0.401882976434426
+17 "WALKING" "Body Gyroscope" -0.334818880570765
+17 "WALKING" "Body Gyroscope Jerk" -0.28586460200929
+17 "WALKING" "Body Gyroscope Jerk Magnitude" -0.539993317745902
+17 "WALKING" "Body Gyroscope Magnitude" -0.497860684221311
+17 "WALKING" "Gravity Accelerometer" -0.391430127710382
+17 "WALKING" "Gravity Accelerometer Magnitude" -0.306494677295082
+17 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0383081187644928
+17 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.237936848962373
+17 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.213356823445109
+17 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.0591347886916304
+17 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.326007768624873
+17 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.307651559296304
+17 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.588348340652174
+17 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.35590912262038
+17 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.363487191652174
+17 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.120179389634348
+17 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0933936247958507
+17 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.323971172055035
+17 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.38645732734375
+17 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.12084569299375
+17 "WALKING_UPSTAIRS" "Body Gyroscope" -0.316552737738677
+17 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.349967772256806
+17 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.678210906354167
+17 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.419135011470833
+17 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.420731388958333
+17 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.0578419790395833
+18 "LAYING" "Body Accelerometer" -0.727144852364103
+18 "LAYING" "Body Accelerometer Jerk" -0.733469358999397
+18 "LAYING" "Body Accelerometer Jerk Magnitude" -0.989026723153846
+18 "LAYING" "Body Accelerometer Magnitude" -0.986839420153846
+18 "LAYING" "Body Gyroscope" -0.741945679941282
+18 "LAYING" "Body Gyroscope Jerk" -0.529595537246154
+18 "LAYING" "Body Gyroscope Jerk Magnitude" -0.992471786461538
+18 "LAYING" "Body Gyroscope Magnitude" -0.981774914615385
+18 "LAYING" "Gravity Accelerometer" -0.310519424564103
+18 "LAYING" "Gravity Accelerometer Magnitude" -0.986460392076923
+18 "SITTING" "Body Accelerometer" -0.724386780784357
+18 "SITTING" "Body Accelerometer Jerk" -0.734296391078972
+18 "SITTING" "Body Accelerometer Jerk Magnitude" -0.990620074736842
+18 "SITTING" "Body Accelerometer Magnitude" -0.983069264122807
+18 "SITTING" "Body Gyroscope" -0.74167345304576
+18 "SITTING" "Body Gyroscope Jerk" -0.528116100148538
+18 "SITTING" "Body Gyroscope Jerk Magnitude" -0.994879540657895
+18 "SITTING" "Body Gyroscope Magnitude" -0.981698885657895
+18 "SITTING" "Gravity Accelerometer" -0.292473178435672
+18 "SITTING" "Gravity Accelerometer Magnitude" -0.982634718859649
+18 "STANDING" "Body Accelerometer" -0.715423843340753
+18 "STANDING" "Body Accelerometer Jerk" -0.731413288658784
+18 "STANDING" "Body Accelerometer Jerk Magnitude" -0.985811252363014
+18 "STANDING" "Body Accelerometer Magnitude" -0.97373888510274
+18 "STANDING" "Body Gyroscope" -0.730763975466324
+18 "STANDING" "Body Gyroscope Jerk" -0.525332523972603
+18 "STANDING" "Body Gyroscope Jerk Magnitude" -0.988643438664384
+18 "STANDING" "Body Gyroscope Magnitude" -0.963567490410959
+18 "STANDING" "Gravity Accelerometer" -0.376143350041096
+18 "STANDING" "Gravity Accelerometer Magnitude" -0.972446520410959
+18 "WALKING" "Body Accelerometer" -0.255795689834003
+18 "WALKING" "Body Accelerometer Jerk" -0.328688873283333
+18 "WALKING" "Body Accelerometer Jerk Magnitude" -0.415794790178571
+18 "WALKING" "Body Accelerometer Magnitude" -0.434551083616071
+18 "WALKING" "Body Gyroscope" -0.431837928634688
+18 "WALKING" "Body Gyroscope Jerk" -0.35443385601869
+18 "WALKING" "Body Gyroscope Jerk Magnitude" -0.710770593169643
+18 "WALKING" "Body Gyroscope Magnitude" -0.599555195
+18 "WALKING" "Gravity Accelerometer" -0.387031594848214
+18 "WALKING" "Gravity Accelerometer Magnitude" -0.374127271696429
+18 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.245819184601848
+18 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.37331071756197
+18 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.404749290740909
+18 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.277434797409091
+18 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.405781913298621
+18 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.371101346584545
+18 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.738372359822727
+18 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.506899659890909
+18 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.359654027133333
+18 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.261733110336364
+18 "WALKING_UPSTAIRS" "Body Accelerometer" -0.24476631726925
+18 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.46925077601681
+18 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.585800435560345
+18 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.380941970172414
+18 "WALKING_UPSTAIRS" "Body Gyroscope" -0.400061456907184
+18 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.420084857274483
+18 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.826070492586207
+18 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.52106011487069
+18 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.391839608198276
+18 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.32549394137931
+19 "LAYING" "Body Accelerometer" -0.719245323051908
+19 "LAYING" "Body Accelerometer Jerk" -0.729471782367201
+19 "LAYING" "Body Accelerometer Jerk Magnitude" -0.981381595090361
+19 "LAYING" "Body Accelerometer Magnitude" -0.966367117801205
+19 "LAYING" "Body Gyroscope" -0.731285086667314
+19 "LAYING" "Body Gyroscope Jerk" -0.523389565093434
+19 "LAYING" "Body Gyroscope Jerk Magnitude" -0.981701581596386
+19 "LAYING" "Body Gyroscope Magnitude" -0.958072707048193
+19 "LAYING" "Gravity Accelerometer" -0.366924078674699
+19 "LAYING" "Gravity Accelerometer Magnitude" -0.964727147951807
+19 "SITTING" "Body Accelerometer" -0.708950114356393
+19 "SITTING" "Body Accelerometer Jerk" -0.730812023322014
+19 "SITTING" "Body Accelerometer Jerk Magnitude" -0.98451702010274
+19 "SITTING" "Body Accelerometer Magnitude" -0.957316144623288
+19 "SITTING" "Body Gyroscope" -0.726144038644715
+19 "SITTING" "Body Gyroscope Jerk" -0.52730411319863
+19 "SITTING" "Body Gyroscope Jerk Magnitude" -0.98685636609589
+19 "SITTING" "Body Gyroscope Magnitude" -0.951861009383562
+19 "SITTING" "Gravity Accelerometer" -0.244813024383562
+19 "SITTING" "Gravity Accelerometer Magnitude" -0.956914861438356
+19 "STANDING" "Body Accelerometer" -0.710342719374087
+19 "STANDING" "Body Accelerometer Jerk" -0.728366773846232
+19 "STANDING" "Body Accelerometer Jerk Magnitude" -0.980256080958904
+19 "STANDING" "Body Accelerometer Magnitude" -0.96405623140411
+19 "STANDING" "Body Gyroscope" -0.721534737930913
+19 "STANDING" "Body Gyroscope Jerk" -0.523398816659886
+19 "STANDING" "Body Gyroscope Jerk Magnitude" -0.983909064486301
+19 "STANDING" "Body Gyroscope Magnitude" -0.943749437671233
+19 "STANDING" "Gravity Accelerometer" -0.345318074445205
+19 "STANDING" "Gravity Accelerometer Magnitude" -0.961527513013699
+19 "WALKING" "Body Accelerometer" -0.00157082183634615
+19 "WALKING" "Body Accelerometer Jerk" -0.00507196635502961
+19 "WALKING" "Body Accelerometer Jerk Magnitude" 0.0489594758186538
+19 "WALKING" "Body Accelerometer Magnitude" -0.0817853874266346
+19 "WALKING" "Body Gyroscope" -0.0507729866702564
+19 "WALKING" "Body Gyroscope Jerk" -0.0998712678698718
+19 "WALKING" "Body Gyroscope Jerk Magnitude" -0.258694753385577
+19 "WALKING" "Body Gyroscope Magnitude" -0.0396614231653846
+19 "WALKING" "Gravity Accelerometer" -0.372609835724359
+19 "WALKING" "Gravity Accelerometer Magnitude" -0.0172876866352885
+19 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.287971285193378
+19 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" 0.203602440215
+19 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.434963432042949
+19 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.431894328724359
+19 "WALKING_DOWNSTAIRS" "Body Gyroscope" 0.0879309700059829
+19 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" 0.0255673542804701
+19 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.0306189793775641
+19 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" 0.222960568116026
+19 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.36269903191782
+19 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.529038350858974
+19 "WALKING_UPSTAIRS" "Body Accelerometer" -0.04785490641575
+19 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.154822137665229
+19 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.25507821650375
+19 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.152041974193063
+19 "WALKING_UPSTAIRS" "Body Gyroscope" -0.175534916629167
+19 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.21611722516875
+19 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.48641609801875
+19 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.2479975586375
+19 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.405526269325
+19 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.080142817276125
+20 "LAYING" "Body Accelerometer" -0.715308664453799
+20 "LAYING" "Body Accelerometer Jerk" -0.729445141072067
+20 "LAYING" "Body Accelerometer Jerk Magnitude" -0.981023103970588
+20 "LAYING" "Body Accelerometer Magnitude" -0.948738431889706
+20 "LAYING" "Body Gyroscope" -0.732172953557475
+20 "LAYING" "Body Gyroscope Jerk" -0.52612943467402
+20 "LAYING" "Body Gyroscope Jerk Magnitude" -0.982733694007353
+20 "LAYING" "Body Gyroscope Magnitude" -0.964159781764706
+20 "LAYING" "Gravity Accelerometer" -0.335197733085784
+20 "LAYING" "Gravity Accelerometer Magnitude" -0.950116285367647
+20 "SITTING" "Body Accelerometer" -0.700942873184179
+20 "SITTING" "Body Accelerometer Jerk" -0.725723308663068
+20 "SITTING" "Body Accelerometer Jerk Magnitude" -0.973910164166667
+20 "SITTING" "Body Accelerometer Magnitude" -0.944891688598485
+20 "SITTING" "Body Gyroscope" -0.724209812765152
+20 "SITTING" "Body Gyroscope Jerk" -0.520025268870455
+20 "SITTING" "Body Gyroscope Jerk Magnitude" -0.977355342045455
+20 "SITTING" "Body Gyroscope Magnitude" -0.944442292386364
+20 "SITTING" "Gravity Accelerometer" -0.289865889307828
+20 "SITTING" "Gravity Accelerometer Magnitude" -0.945251035606061
+20 "STANDING" "Body Accelerometer" -0.678299869079772
+20 "STANDING" "Body Accelerometer Jerk" -0.7073228179035
+20 "STANDING" "Body Accelerometer Jerk Magnitude" -0.942778050376712
+20 "STANDING" "Body Accelerometer Magnitude" -0.918239106917808
+20 "STANDING" "Body Gyroscope" -0.677026448925228
+20 "STANDING" "Body Gyroscope Jerk" -0.502504460419635
+20 "STANDING" "Body Gyroscope Jerk Magnitude" -0.932772754246575
+20 "STANDING" "Body Gyroscope Magnitude" -0.863980865205479
+20 "STANDING" "Gravity Accelerometer" -0.367609737447557
+20 "STANDING" "Gravity Accelerometer Magnitude" -0.91653947609589
+20 "WALKING" "Body Accelerometer" 0.00927878780228758
+20 "WALKING" "Body Accelerometer Jerk" -0.0654736696919281
+20 "WALKING" "Body Accelerometer Jerk Magnitude" 0.000400640945588236
+20 "WALKING" "Body Accelerometer Magnitude" -0.127748883398902
+20 "WALKING" "Body Gyroscope" -0.0778269258635784
+20 "WALKING" "Body Gyroscope Jerk" -0.130361674429412
+20 "WALKING" "Body Gyroscope Jerk Magnitude" -0.174274625195196
+20 "WALKING" "Body Gyroscope Magnitude" -0.0540936500339216
+20 "WALKING" "Gravity Accelerometer" -0.394298335176471
+20 "WALKING" "Gravity Accelerometer Magnitude" -0.0587640556713333
+20 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.122789544377889
+20 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.063783742243387
+20 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.0195695738970556
+20 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.136654467808333
+20 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.0437178731604444
+20 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.12420734690037
+20 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.284275265615556
+20 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.0472455977198889
+20 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.359113501403704
+20 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.197243974688889
+20 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0637403378052941
+20 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.244233623944526
+20 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.247629917634314
+20 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.17869875042549
+20 "WALKING_UPSTAIRS" "Body Gyroscope" -0.116572870010605
+20 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.223038788442778
+20 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.44513486877451
+20 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.219793947656863
+20 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.432163370373791
+20 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.0947723471058824
+21 "LAYING" "Body Accelerometer" -0.703930665236796
+21 "LAYING" "Body Accelerometer Jerk" -0.728607918239398
+21 "LAYING" "Body Accelerometer Jerk Magnitude" -0.979350488027778
+21 "LAYING" "Body Accelerometer Magnitude" -0.948250289194444
+21 "LAYING" "Body Gyroscope" -0.731701167537037
+21 "LAYING" "Body Gyroscope Jerk" -0.524428486874259
+21 "LAYING" "Body Gyroscope Jerk Magnitude" -0.98336520275
+21 "LAYING" "Body Gyroscope Magnitude" -0.952663406555556
+21 "LAYING" "Gravity Accelerometer" -0.278026668137037
+21 "LAYING" "Gravity Accelerometer Magnitude" -0.947391507333333
+21 "SITTING" "Body Accelerometer" -0.717751791151667
+21 "SITTING" "Body Accelerometer Jerk" -0.731351899287822
+21 "SITTING" "Body Accelerometer Jerk Magnitude" -0.986200499617647
+21 "SITTING" "Body Accelerometer Magnitude" -0.974001517735294
+21 "SITTING" "Body Gyroscope" -0.735732292342555
+21 "SITTING" "Body Gyroscope Jerk" -0.526675708833871
+21 "SITTING" "Body Gyroscope Jerk Magnitude" -0.990421515
+21 "SITTING" "Body Gyroscope Magnitude" -0.971515782264706
+21 "SITTING" "Gravity Accelerometer" -0.338823804786274
+21 "SITTING" "Gravity Accelerometer Magnitude" -0.973364625352941
+21 "STANDING" "Body Accelerometer" -0.706542726241414
+21 "STANDING" "Body Accelerometer Jerk" -0.723172457652093
+21 "STANDING" "Body Accelerometer Jerk Magnitude" -0.972233022668539
+21 "STANDING" "Body Accelerometer Magnitude" -0.959506843707865
+21 "STANDING" "Body Gyroscope" -0.720213342488511
+21 "STANDING" "Body Gyroscope Jerk" -0.520260115670581
+21 "STANDING" "Body Gyroscope Jerk Magnitude" -0.976711038033708
+21 "STANDING" "Body Gyroscope Magnitude" -0.949984437219101
+21 "STANDING" "Gravity Accelerometer" -0.431967665636704
+21 "STANDING" "Gravity Accelerometer Magnitude" -0.957847098146067
+21 "WALKING" "Body Accelerometer" -0.105978512883894
+21 "WALKING" "Body Accelerometer Jerk" -0.149072890755854
+21 "WALKING" "Body Accelerometer Jerk Magnitude" -0.0986677797615385
+21 "WALKING" "Body Accelerometer Magnitude" -0.278145398442308
+21 "WALKING" "Body Gyroscope" -0.278918368128974
+21 "WALKING" "Body Gyroscope Jerk" -0.236208547614744
+21 "WALKING" "Body Gyroscope Jerk Magnitude" -0.451555345673077
+21 "WALKING" "Body Gyroscope Magnitude" -0.403711375865385
+21 "WALKING" "Gravity Accelerometer" -0.439677995448718
+21 "WALKING" "Gravity Accelerometer Magnitude" -0.211582706846154
+21 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.104012832371648
+21 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.0885038558840741
+21 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.047664423691
+21 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.207284158800556
+21 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.277503032829259
+21 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.274249650579259
+21 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.506107830944444
+21 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.366038151717222
+21 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.411415258777778
+21 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.255056801357778
+21 "WALKING_UPSTAIRS" "Body Accelerometer" -0.100949797780319
+21 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.30216697367234
+21 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.398099281515957
+21 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.255192915872872
+21 "WALKING_UPSTAIRS" "Body Gyroscope" -0.259784729381064
+21 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.317775853492731
+21 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.638888805319149
+21 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.386998926723936
+21 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.462669826453901
+21 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.179759801320213
+22 "LAYING" "Body Accelerometer" -0.690162304112755
+22 "LAYING" "Body Accelerometer Jerk" -0.719177689037905
+22 "LAYING" "Body Accelerometer Jerk Magnitude" -0.962327501770833
+22 "LAYING" "Body Accelerometer Magnitude" -0.921871950673611
+22 "LAYING" "Body Gyroscope" -0.711376800644792
+22 "LAYING" "Body Gyroscope Jerk" -0.523216349702963
+22 "LAYING" "Body Gyroscope Jerk Magnitude" -0.976336657291667
+22 "LAYING" "Body Gyroscope Magnitude" -0.930034034618056
+22 "LAYING" "Gravity Accelerometer" -0.309025028509491
+22 "LAYING" "Gravity Accelerometer Magnitude" -0.922200780229167
+22 "SITTING" "Body Accelerometer" -0.695694220055282
+22 "SITTING" "Body Accelerometer Jerk" -0.726073929681976
+22 "SITTING" "Body Accelerometer Jerk Magnitude" -0.970953765967742
+22 "SITTING" "Body Accelerometer Magnitude" -0.934094951206452
+22 "SITTING" "Body Gyroscope" -0.723088227168952
+22 "SITTING" "Body Gyroscope Jerk" -0.523033445329301
+22 "SITTING" "Body Gyroscope Jerk Magnitude" -0.979018341008065
+22 "SITTING" "Body Gyroscope Magnitude" -0.940215424233871
+22 "SITTING" "Gravity Accelerometer" -0.248462391467742
+22 "SITTING" "Gravity Accelerometer Magnitude" -0.933251768953226
+22 "STANDING" "Body Accelerometer" -0.700647516174511
+22 "STANDING" "Body Accelerometer Jerk" -0.721137406150317
+22 "STANDING" "Body Accelerometer Jerk Magnitude" -0.962774734880952
+22 "STANDING" "Body Accelerometer Magnitude" -0.946864398650794
+22 "STANDING" "Body Gyroscope" -0.713501676441138
+22 "STANDING" "Body Gyroscope Jerk" -0.51754814675582
+22 "STANDING" "Body Gyroscope Jerk Magnitude" -0.969603050634921
+22 "STANDING" "Body Gyroscope Magnitude" -0.916172135396825
+22 "STANDING" "Gravity Accelerometer" -0.360461703493122
+22 "STANDING" "Gravity Accelerometer Magnitude" -0.947336988174603
+22 "WALKING" "Body Accelerometer" -0.0334431211865996
+22 "WALKING" "Body Accelerometer Jerk" -0.0182746164037355
+22 "WALKING" "Body Accelerometer Jerk Magnitude" 0.0896780915054348
+22 "WALKING" "Body Accelerometer Magnitude" -0.123726919960978
+22 "WALKING" "Body Gyroscope" -0.234392090607609
+22 "WALKING" "Body Gyroscope Jerk" -0.222493316577899
+22 "WALKING" "Body Gyroscope Jerk Magnitude" -0.498864308315217
+22 "WALKING" "Body Gyroscope Magnitude" -0.375945394461957
+22 "WALKING" "Gravity Accelerometer" -0.364766859463768
+22 "WALKING" "Gravity Accelerometer Magnitude" -0.0446749376556522
+22 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.0587774382600208
+22 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.0953195785997685
+22 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0369486390320139
+22 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.140568324694306
+22 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.267768734468056
+22 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.239621309775278
+22 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.589550245833333
+22 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.276384072934028
+22 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.342126075435185
+22 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.232133350235833
+22 "WALKING_UPSTAIRS" "Body Accelerometer" 0.0350523143571627
+22 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.13977959892754
+22 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0951340167065476
+22 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.0923229000791667
+22 "WALKING_UPSTAIRS" "Body Gyroscope" -0.244381567886786
+22 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.311781797504405
+22 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.655402857797619
+22 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.233628783092857
+22 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.389763020116389
+22 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" 0.02576256675
+23 "LAYING" "Body Accelerometer" -0.715563747981481
+23 "LAYING" "Body Accelerometer Jerk" -0.732298050543646
+23 "LAYING" "Body Accelerometer Jerk Magnitude" -0.986535438368056
+23 "LAYING" "Body Accelerometer Magnitude" -0.961760983993056
+23 "LAYING" "Body Gyroscope" -0.732136954192801
+23 "LAYING" "Body Gyroscope Jerk" -0.526805609872917
+23 "LAYING" "Body Gyroscope Jerk Magnitude" -0.982326076458333
+23 "LAYING" "Body Gyroscope Magnitude" -0.957977618263889
+23 "LAYING" "Gravity Accelerometer" -0.323645308888889
+23 "LAYING" "Gravity Accelerometer Magnitude" -0.960415593680556
+23 "SITTING" "Body Accelerometer" -0.697420564076716
+23 "SITTING" "Body Accelerometer Jerk" -0.727650131486881
+23 "SITTING" "Body Accelerometer Jerk Magnitude" -0.975570690772059
+23 "SITTING" "Body Accelerometer Magnitude" -0.935492996176471
+23 "SITTING" "Body Gyroscope" -0.72724877490527
+23 "SITTING" "Body Gyroscope Jerk" -0.524116800790686
+23 "SITTING" "Body Gyroscope Jerk Magnitude" -0.981236828382353
+23 "SITTING" "Body Gyroscope Magnitude" -0.941143394522059
+23 "SITTING" "Gravity Accelerometer" -0.291356047959069
+23 "SITTING" "Gravity Accelerometer Magnitude" -0.934522018088235
+23 "STANDING" "Body Accelerometer" -0.70715304113114
+23 "STANDING" "Body Accelerometer Jerk" -0.72647033056711
+23 "STANDING" "Body Accelerometer Jerk Magnitude" -0.975583714227941
+23 "STANDING" "Body Accelerometer Magnitude" -0.955539914522059
+23 "STANDING" "Body Gyroscope" -0.715733652875931
+23 "STANDING" "Body Gyroscope Jerk" -0.520763815194853
+23 "STANDING" "Body Gyroscope Jerk Magnitude" -0.973808780036765
+23 "STANDING" "Body Gyroscope Magnitude" -0.932904027536765
+23 "STANDING" "Gravity Accelerometer" -0.389634030492794
+23 "STANDING" "Gravity Accelerometer Magnitude" -0.954441062279412
+23 "WALKING" "Body Accelerometer" -0.0674562807097881
+23 "WALKING" "Body Accelerometer Jerk" -0.086075670837161
+23 "WALKING" "Body Accelerometer Jerk Magnitude" -0.0394273013652542
+23 "WALKING" "Body Accelerometer Magnitude" -0.202676130330847
+23 "WALKING" "Body Gyroscope" -0.112270540643008
+23 "WALKING" "Body Gyroscope Jerk" -0.107043971405876
+23 "WALKING" "Body Gyroscope Jerk Magnitude" 0.174039232582881
+23 "WALKING" "Body Gyroscope Magnitude" 0.0687128120737712
+23 "WALKING" "Gravity Accelerometer" -0.376579665734463
+23 "WALKING" "Gravity Accelerometer Magnitude" -0.154433187196441
+23 "WALKING_DOWNSTAIRS" "Body Accelerometer" 0.104065629768735
+23 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" 0.0273800804847068
+23 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" 0.241139975887037
+23 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.169253015120833
+23 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.0957003151922839
+23 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.121095950798148
+23 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" 0.0119992895291667
+23 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" 0.00624603684398148
+23 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.355946769540123
+23 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.178787551023148
+23 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0432853770235457
+23 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.273887949243627
+23 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.357786411044118
+23 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.231269426766176
+23 "WALKING_UPSTAIRS" "Body Gyroscope" -0.23186612295098
+23 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.306734292627124
+23 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.551754362696078
+23 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.343535001690343
+23 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.412143732843137
+23 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.141823700748039
+24 "LAYING" "Body Accelerometer" -0.719381186850463
+24 "LAYING" "Body Accelerometer Jerk" -0.730850992268333
+24 "LAYING" "Body Accelerometer Jerk Magnitude" -0.983882099618056
+24 "LAYING" "Body Accelerometer Magnitude" -0.9713607421875
+24 "LAYING" "Body Gyroscope" -0.731060686946759
+24 "LAYING" "Body Gyroscope Jerk" -0.525632751113426
+24 "LAYING" "Body Gyroscope Jerk Magnitude" -0.980033424479167
+24 "LAYING" "Body Gyroscope Magnitude" -0.959247978854167
+24 "LAYING" "Gravity Accelerometer" -0.311688019259259
+24 "LAYING" "Gravity Accelerometer Magnitude" -0.970604438333333
+24 "SITTING" "Body Accelerometer" -0.713865993140907
+24 "SITTING" "Body Accelerometer Jerk" -0.731644955123852
+24 "SITTING" "Body Accelerometer Jerk Magnitude" -0.985264490367647
+24 "SITTING" "Body Accelerometer Magnitude" -0.966879033308824
+24 "SITTING" "Body Gyroscope" -0.737291239982353
+24 "SITTING" "Body Gyroscope Jerk" -0.526410805939951
+24 "SITTING" "Body Gyroscope Jerk Magnitude" -0.990954691213235
+24 "SITTING" "Body Gyroscope Magnitude" -0.970242508713235
+24 "SITTING" "Gravity Accelerometer" -0.285551268817647
+24 "SITTING" "Gravity Accelerometer Magnitude" -0.966379419852941
+24 "STANDING" "Body Accelerometer" -0.702570340283102
+24 "STANDING" "Body Accelerometer Jerk" -0.724913432204819
+24 "STANDING" "Body Accelerometer Jerk Magnitude" -0.974044040434783
+24 "STANDING" "Body Accelerometer Magnitude" -0.951887668478261
+24 "STANDING" "Body Gyroscope" -0.726454961089251
+24 "STANDING" "Body Gyroscope Jerk" -0.522533989229952
+24 "STANDING" "Body Gyroscope Jerk Magnitude" -0.980814331376812
+24 "STANDING" "Body Gyroscope Magnitude" -0.956488216014493
+24 "STANDING" "Gravity Accelerometer" -0.356392581882609
+24 "STANDING" "Gravity Accelerometer Magnitude" -0.948981014710145
+24 "WALKING" "Body Accelerometer" -0.230845270796839
+24 "WALKING" "Body Accelerometer Jerk" -0.320923438711063
+24 "WALKING" "Body Accelerometer Jerk Magnitude" -0.407791948534483
+24 "WALKING" "Body Accelerometer Magnitude" -0.451483097543103
+24 "WALKING" "Body Gyroscope" -0.366067308743822
+24 "WALKING" "Body Gyroscope Jerk" -0.291632074765517
+24 "WALKING" "Body Gyroscope Jerk Magnitude" -0.550722408922414
+24 "WALKING" "Body Gyroscope Magnitude" -0.542367333793103
+24 "WALKING" "Gravity Accelerometer" -0.36747656691092
+24 "WALKING" "Gravity Accelerometer Magnitude" -0.390523816293103
+24 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.099971062595197
+24 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.202463183886182
+24 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.172548635779318
+24 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.0736789249828182
+24 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.343371141064849
+24 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.253043150057576
+24 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.477198125681818
+24 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.378276660168182
+24 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.360516412475758
+24 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.0481269142963636
+24 "WALKING_UPSTAIRS" "Body Accelerometer" -0.188705190291469
+24 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.386016138214421
+24 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.454751221737288
+24 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.315460414745763
+24 "WALKING_UPSTAIRS" "Body Gyroscope" -0.361371384084746
+24 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.360747978208531
+24 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.649230900677966
+24 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.488025221177966
+24 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.395349677344633
+24 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.266628646016949
+25 "LAYING" "Body Accelerometer" -0.582167000563813
+25 "LAYING" "Body Accelerometer Jerk" -0.715017697013322
+25 "LAYING" "Body Accelerometer Jerk Magnitude" -0.961944330376712
+25 "LAYING" "Body Accelerometer Magnitude" -0.658891932325342
+25 "LAYING" "Body Gyroscope" -0.680492137235616
+25 "LAYING" "Body Gyroscope Jerk" -0.517866470615639
+25 "LAYING" "Body Gyroscope Jerk Magnitude" -0.969200585376712
+25 "LAYING" "Body Gyroscope Magnitude" -0.856623562328767
+25 "LAYING" "Gravity Accelerometer" -0.232897378109589
+25 "LAYING" "Gravity Accelerometer Magnitude" -0.604866272020548
+25 "SITTING" "Body Accelerometer" -0.714519617720769
+25 "SITTING" "Body Accelerometer Jerk" -0.734095732066231
+25 "SITTING" "Body Accelerometer Jerk Magnitude" -0.9883543935
+25 "SITTING" "Body Accelerometer Magnitude" -0.964857003115385
+25 "SITTING" "Body Gyroscope" -0.738387811378205
+25 "SITTING" "Body Gyroscope Jerk" -0.526552775677949
+25 "SITTING" "Body Gyroscope Jerk Magnitude" -0.992108078576923
+25 "SITTING" "Body Gyroscope Magnitude" -0.971720163807692
+25 "SITTING" "Gravity Accelerometer" -0.280106800533256
+25 "SITTING" "Gravity Accelerometer Magnitude" -0.965206375769231
+25 "STANDING" "Body Accelerometer" -0.715835308824358
+25 "STANDING" "Body Accelerometer Jerk" -0.73075573119919
+25 "STANDING" "Body Accelerometer Jerk Magnitude" -0.982915409493243
+25 "STANDING" "Body Accelerometer Magnitude" -0.970824568783784
+25 "STANDING" "Body Gyroscope" -0.73082376628277
+25 "STANDING" "Body Gyroscope Jerk" -0.523979199150676
+25 "STANDING" "Body Gyroscope Jerk Magnitude" -0.983859891756757
+25 "STANDING" "Body Gyroscope Magnitude" -0.964256153412162
+25 "STANDING" "Gravity Accelerometer" -0.32832062731982
+25 "STANDING" "Gravity Accelerometer Magnitude" -0.970369610743243
+25 "WALKING" "Body Accelerometer" -0.302521387191216
+25 "WALKING" "Body Accelerometer Jerk" -0.41626383298848
+25 "WALKING" "Body Accelerometer Jerk Magnitude" -0.541189269763514
+25 "WALKING" "Body Accelerometer Magnitude" -0.542469598682432
+25 "WALKING" "Body Gyroscope" -0.400691098962016
+25 "WALKING" "Body Gyroscope Jerk" -0.360119030817005
+25 "WALKING" "Body Gyroscope Jerk Magnitude" -0.740796322432432
+25 "WALKING" "Body Gyroscope Magnitude" -0.494041820878378
+25 "WALKING" "Gravity Accelerometer" -0.31516748638964
+25 "WALKING" "Gravity Accelerometer Magnitude" -0.485445448040541
+25 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.22026747587806
+25 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.396378375644971
+25 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.489331785215517
+25 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.281791428038793
+25 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.317557592484885
+25 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.345623586692701
+25 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.681096566724138
+25 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.376928599689224
+25 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.292080216850575
+25 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.239786922267241
+25 "WALKING_UPSTAIRS" "Body Accelerometer" -0.264548436690667
+25 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.524401214741833
+25 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.677975676653846
+25 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.462451675923077
+25 "WALKING_UPSTAIRS" "Body Gyroscope" -0.380131106155603
+25 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.414749001820256
+25 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.816363561884615
+25 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.415038819670385
+25 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.324512696398718
+25 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.392889424461538
+26 "LAYING" "Body Accelerometer" -0.722309664100768
+26 "LAYING" "Body Accelerometer Jerk" -0.733690438298557
+26 "LAYING" "Body Accelerometer Jerk Magnitude" -0.989028050361842
+26 "LAYING" "Body Accelerometer Magnitude" -0.969246494638158
+26 "LAYING" "Body Gyroscope" -0.731320405866667
+26 "LAYING" "Body Gyroscope Jerk" -0.531113097861842
+26 "LAYING" "Body Gyroscope Jerk Magnitude" -0.990543565197368
+26 "LAYING" "Body Gyroscope Magnitude" -0.96449620375
+26 "LAYING" "Gravity Accelerometer" -0.353368915087719
+26 "LAYING" "Gravity Accelerometer Magnitude" -0.970570116381579
+26 "SITTING" "Body Accelerometer" -0.70688545950797
+26 "SITTING" "Body Accelerometer Jerk" -0.735878654115427
+26 "SITTING" "Body Accelerometer Jerk Magnitude" -0.989971940769231
+26 "SITTING" "Body Accelerometer Magnitude" -0.943420380092949
+26 "SITTING" "Body Gyroscope" -0.737689346852564
+26 "SITTING" "Body Gyroscope Jerk" -0.527667782146962
+26 "SITTING" "Body Gyroscope Jerk Magnitude" -0.994173717660256
+26 "SITTING" "Body Gyroscope Magnitude" -0.964727372628205
+26 "SITTING" "Gravity Accelerometer" -0.256416948173077
+26 "SITTING" "Gravity Accelerometer Magnitude" -0.94334138875641
+26 "STANDING" "Body Accelerometer" -0.714705520331115
+26 "STANDING" "Body Accelerometer Jerk" -0.731605656931194
+26 "STANDING" "Body Accelerometer Jerk Magnitude" -0.983404417195946
+26 "STANDING" "Body Accelerometer Magnitude" -0.966430885810811
+26 "STANDING" "Body Gyroscope" -0.734434176905856
+26 "STANDING" "Body Gyroscope Jerk" -0.524790548944369
+26 "STANDING" "Body Gyroscope Jerk Magnitude" -0.985468717331081
+26 "STANDING" "Body Gyroscope Magnitude" -0.966657063885135
+26 "STANDING" "Gravity Accelerometer" -0.335055658099099
+26 "STANDING" "Gravity Accelerometer Magnitude" -0.965604496756757
+26 "WALKING" "Body Accelerometer" -0.198456865025565
+26 "WALKING" "Body Accelerometer Jerk" -0.249171827166201
+26 "WALKING" "Body Accelerometer Jerk Magnitude" -0.283103896440678
+26 "WALKING" "Body Accelerometer Magnitude" -0.390567048889831
+26 "WALKING" "Body Gyroscope" -0.351765308948588
+26 "WALKING" "Body Gyroscope Jerk" -0.28071184789209
+26 "WALKING" "Body Gyroscope Jerk Magnitude" -0.587064719322034
+26 "WALKING" "Body Gyroscope Magnitude" -0.522953784957627
+26 "WALKING" "Gravity Accelerometer" -0.329977209658192
+26 "WALKING" "Gravity Accelerometer Magnitude" -0.322623742864407
+26 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.035290832843815
+26 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.151458682566668
+26 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.120318331952
+26 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.085558046021
+26 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.273858816350817
+26 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.210761021790767
+26 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.46090468435
+26 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.3147433785565
+26 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.301737732716667
+26 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.130690531401
+26 "WALKING_UPSTAIRS" "Body Accelerometer" -0.167978099703924
+26 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.345348694027894
+26 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.356920266045455
+26 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.183843554206818
+26 "WALKING_UPSTAIRS" "Body Gyroscope" -0.368289423703333
+26 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.332194865842061
+26 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.663339116
+26 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.496044059
+26 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.355928975408485
+26 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.146790803090909
+27 "LAYING" "Body Accelerometer" -0.724981980138514
+27 "LAYING" "Body Accelerometer Jerk" -0.733015892995912
+27 "LAYING" "Body Accelerometer Jerk Magnitude" -0.988308326790541
+27 "LAYING" "Body Accelerometer Magnitude" -0.980674296283784
+27 "LAYING" "Body Gyroscope" -0.737803791418896
+27 "LAYING" "Body Gyroscope Jerk" -0.530245402497027
+27 "LAYING" "Body Gyroscope Jerk Magnitude" -0.99373885875
+27 "LAYING" "Body Gyroscope Magnitude" -0.972632558006757
+27 "LAYING" "Gravity Accelerometer" -0.345184107927928
+27 "LAYING" "Gravity Accelerometer Magnitude" -0.980505914189189
+27 "SITTING" "Body Accelerometer" -0.719473105935952
+27 "SITTING" "Body Accelerometer Jerk" -0.734835134806702
+27 "SITTING" "Body Accelerometer Jerk Magnitude" -0.988993159607143
+27 "SITTING" "Body Accelerometer Magnitude" -0.973665026785714
+27 "SITTING" "Body Gyroscope" -0.739635879330238
+27 "SITTING" "Body Gyroscope Jerk" -0.527137760892857
+27 "SITTING" "Body Gyroscope Jerk Magnitude" -0.992626395214286
+27 "SITTING" "Body Gyroscope Magnitude" -0.971089673464286
+27 "SITTING" "Gravity Accelerometer" -0.267239662359524
+27 "SITTING" "Gravity Accelerometer Magnitude" -0.974504171785714
+27 "STANDING" "Body Accelerometer" -0.715516667049583
+27 "STANDING" "Body Accelerometer Jerk" -0.730679293754939
+27 "STANDING" "Body Accelerometer Jerk Magnitude" -0.984170158375
+27 "STANDING" "Body Accelerometer Magnitude" -0.96995717234375
+27 "STANDING" "Body Gyroscope" -0.735513839231771
+27 "STANDING" "Body Gyroscope Jerk" -0.525720402843333
+27 "STANDING" "Body Gyroscope Jerk Magnitude" -0.98908736565625
+27 "STANDING" "Body Gyroscope Magnitude" -0.968830506625
+27 "STANDING" "Gravity Accelerometer" -0.361758448814304
+27 "STANDING" "Gravity Accelerometer Magnitude" -0.9695567009375
+27 "WALKING" "Body Accelerometer" -0.201840613238838
+27 "WALKING" "Body Accelerometer Jerk" -0.21042694571674
+27 "WALKING" "Body Accelerometer Jerk Magnitude" -0.25907638120614
+27 "WALKING" "Body Accelerometer Magnitude" -0.380957918245614
+27 "WALKING" "Body Gyroscope" -0.351063846825409
+27 "WALKING" "Body Gyroscope Jerk" -0.29584131522426
+27 "WALKING" "Body Gyroscope Jerk Magnitude" -0.610959102982456
+27 "WALKING" "Body Gyroscope Magnitude" -0.48635774
+27 "WALKING" "Gravity Accelerometer" -0.379866885281871
+27 "WALKING" "Gravity Accelerometer Magnitude" -0.323104831140351
+27 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0420474519200758
+27 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.141693615645265
+27 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0642065834681818
+27 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.0769630288818182
+27 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.272692597743049
+27 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.239742229044697
+27 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.469240815477841
+27 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.307458304179545
+27 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.363077815005303
+27 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.1146238303625
+27 "WALKING_UPSTAIRS" "Body Accelerometer" -0.176287048453431
+27 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.383560445999346
+27 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.469364956470588
+27 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.350793703455882
+27 "WALKING_UPSTAIRS" "Body Gyroscope" -0.346399245559379
+27 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.381896103446765
+27 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.723865093235294
+27 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.479731212913235
+27 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.414457275947712
+27 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.270269071127451
+28 "LAYING" "Body Accelerometer" -0.7066244358675
+28 "LAYING" "Body Accelerometer Jerk" -0.725675269011912
+28 "LAYING" "Body Accelerometer Jerk Magnitude" -0.97438509171875
+28 "LAYING" "Body Accelerometer Magnitude" -0.95782146653125
+28 "LAYING" "Body Gyroscope" -0.72121521938
+28 "LAYING" "Body Gyroscope Jerk" -0.519364078374583
+28 "LAYING" "Body Gyroscope Jerk Magnitude" -0.972285987875
+28 "LAYING" "Body Gyroscope Magnitude" -0.93548530203125
+28 "LAYING" "Gravity Accelerometer" -0.541664508083333
+28 "LAYING" "Gravity Accelerometer Magnitude" -0.956343129875
+28 "SITTING" "Body Accelerometer" -0.70410102464706
+28 "SITTING" "Body Accelerometer Jerk" -0.721322108414815
+28 "SITTING" "Body Accelerometer Jerk Magnitude" -0.970894508993056
+28 "SITTING" "Body Accelerometer Magnitude" -0.952445490104167
+28 "SITTING" "Body Gyroscope" -0.724524792687732
+28 "SITTING" "Body Gyroscope Jerk" -0.521327840513194
+28 "SITTING" "Body Gyroscope Jerk Magnitude" -0.979379079131944
+28 "SITTING" "Body Gyroscope Magnitude" -0.9550183421875
+28 "SITTING" "Gravity Accelerometer" -0.331141563984259
+28 "SITTING" "Gravity Accelerometer Magnitude" -0.951786205972222
+28 "STANDING" "Body Accelerometer" -0.679783357284715
+28 "STANDING" "Body Accelerometer Jerk" -0.711758288854093
+28 "STANDING" "Body Accelerometer Jerk Magnitude" -0.955327824873418
+28 "STANDING" "Body Accelerometer Magnitude" -0.92403340585443
+28 "STANDING" "Body Gyroscope" -0.689360878721487
+28 "STANDING" "Body Gyroscope Jerk" -0.509298678110274
+28 "STANDING" "Body Gyroscope Jerk Magnitude" -0.957672375158228
+28 "STANDING" "Body Gyroscope Magnitude" -0.889818028417722
+28 "STANDING" "Gravity Accelerometer" -0.373727903044093
+28 "STANDING" "Gravity Accelerometer Magnitude" -0.921564992911392
+28 "WALKING" "Body Accelerometer" -0.175663357876698
+28 "WALKING" "Body Accelerometer Jerk" -0.272876710853086
+28 "WALKING" "Body Accelerometer Jerk Magnitude" -0.371689387453704
+28 "WALKING" "Body Accelerometer Magnitude" -0.359272638130556
+28 "WALKING" "Body Gyroscope" -0.311398561088225
+28 "WALKING" "Body Gyroscope Jerk" -0.280538816781173
+28 "WALKING" "Body Gyroscope Jerk Magnitude" -0.577786696759259
+28 "WALKING" "Body Gyroscope Magnitude" -0.4506754015
+28 "WALKING" "Gravity Accelerometer" -0.383666421901235
+28 "WALKING" "Gravity Accelerometer Magnitude" -0.28668002015
+28 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0118568288928986
+28 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.10812734490163
+28 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0534713810021739
+28 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.0886515476331522
+28 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.193035446094545
+28 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.181005547880978
+28 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.402248149923913
+28 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.219747274838587
+28 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.375078030855072
+28 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.119912390256522
+28 "WALKING_UPSTAIRS" "Body Accelerometer" -0.176220494640261
+28 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.321099000833578
+28 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.345594477465686
+28 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.236578676003922
+28 "WALKING_UPSTAIRS" "Body Gyroscope" -0.306532611238889
+28 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.332251098613399
+28 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.664442623823529
+28 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.450840263466667
+28 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.419462754117647
+28 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.199084585215686
+29 "LAYING" "Body Accelerometer" -0.727225481865942
+29 "LAYING" "Body Accelerometer Jerk" -0.736542140804118
+29 "LAYING" "Body Accelerometer Jerk Magnitude" -0.993934307028986
+29 "LAYING" "Body Accelerometer Magnitude" -0.984116443333333
+29 "LAYING" "Body Gyroscope" -0.73861457803442
+29 "LAYING" "Body Gyroscope Jerk" -0.532443782509662
+29 "LAYING" "Body Gyroscope Jerk Magnitude" -0.997547804565217
+29 "LAYING" "Body Gyroscope Magnitude" -0.977411026014493
+29 "LAYING" "Gravity Accelerometer" -0.316961327028985
+29 "LAYING" "Gravity Accelerometer Magnitude" -0.984032672173913
+29 "SITTING" "Body Accelerometer" -0.718861071534028
+29 "SITTING" "Body Accelerometer Jerk" -0.735000926520806
+29 "SITTING" "Body Accelerometer Jerk Magnitude" -0.990292037541667
+29 "SITTING" "Body Accelerometer Magnitude" -0.9729679725
+29 "SITTING" "Body Gyroscope" -0.742396207294167
+29 "SITTING" "Body Gyroscope Jerk" -0.527306900405
+29 "SITTING" "Body Gyroscope Jerk Magnitude" -0.995025682291667
+29 "SITTING" "Body Gyroscope Magnitude" -0.971309038916667
+29 "SITTING" "Gravity Accelerometer" -0.265139368544444
+29 "SITTING" "Gravity Accelerometer Magnitude" -0.973653669166667
+29 "STANDING" "Body Accelerometer" -0.724139863826795
+29 "STANDING" "Body Accelerometer Jerk" -0.734677686561076
+29 "STANDING" "Body Accelerometer Jerk Magnitude" -0.990350734076923
+29 "STANDING" "Body Accelerometer Magnitude" -0.983321710653846
+29 "STANDING" "Body Gyroscope" -0.739327578199744
+29 "STANDING" "Body Gyroscope Jerk" -0.527230953197436
+29 "STANDING" "Body Gyroscope Jerk Magnitude" -0.991696790346154
+29 "STANDING" "Body Gyroscope Magnitude" -0.978208614384615
+29 "STANDING" "Gravity Accelerometer" -0.336454439969333
+29 "STANDING" "Gravity Accelerometer Magnitude" -0.983245515923077
+29 "WALKING" "Body Accelerometer" -0.122177942124969
+29 "WALKING" "Body Accelerometer Jerk" -0.194829218870881
+29 "WALKING" "Body Accelerometer Jerk Magnitude" -0.162938164188679
+29 "WALKING" "Body Accelerometer Magnitude" -0.246789303498585
+29 "WALKING" "Body Gyroscope" -0.304058519301745
+29 "WALKING" "Body Gyroscope Jerk" -0.280349837156887
+29 "WALKING" "Body Gyroscope Jerk Magnitude" -0.591408473443396
+29 "WALKING" "Body Gyroscope Magnitude" -0.371340512028302
+29 "WALKING" "Gravity Accelerometer" -0.328145383918239
+29 "WALKING" "Gravity Accelerometer Magnitude" -0.179108201478302
+29 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0407862191683681
+29 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.153613195422969
+29 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.0621823744597396
+29 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" 0.0802683682223958
+29 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.247156950052422
+29 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.266426286635243
+29 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.589871528333333
+29 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.273715591055365
+29 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.293430865975694
+29 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" 0.119093157927083
+29 "WALKING_UPSTAIRS" "Body Accelerometer" -0.0529529311158673
+29 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.315289407589218
+29 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.279625403076531
+29 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.0743565403290816
+29 "WALKING_UPSTAIRS" "Body Gyroscope" -0.181893013656139
+29 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.336200214253741
+29 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.696026465153061
+29 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.116907553598571
+29 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.331588141470476
+29 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.016563001227551
+30 "LAYING" "Body Accelerometer" -0.711880030018214
+30 "LAYING" "Body Accelerometer Jerk" -0.725141754478679
+30 "LAYING" "Body Accelerometer Jerk Magnitude" -0.971728039464286
+30 "LAYING" "Body Accelerometer Magnitude" -0.964222630678571
+30 "LAYING" "Body Gyroscope" -0.72808615247619
+30 "LAYING" "Body Gyroscope Jerk" -0.524206732132619
+30 "LAYING" "Body Gyroscope Jerk Magnitude" -0.978641610071429
+30 "LAYING" "Body Gyroscope Magnitude" -0.957048752607143
+30 "LAYING" "Gravity Accelerometer" -0.313731079880952
+30 "LAYING" "Gravity Accelerometer Magnitude" -0.964998945785714
+30 "SITTING" "Body Accelerometer" -0.706678899056317
+30 "SITTING" "Body Accelerometer Jerk" -0.732543264074597
+30 "SITTING" "Body Accelerometer Jerk Magnitude" -0.98624449641129
+30 "SITTING" "Body Accelerometer Magnitude" -0.950963952177419
+30 "SITTING" "Body Gyroscope" -0.734122953132393
+30 "SITTING" "Body Gyroscope Jerk" -0.526561441642581
+30 "SITTING" "Body Gyroscope Jerk Magnitude" -0.991928679959677
+30 "SITTING" "Body Gyroscope Magnitude" -0.962469708064516
+30 "SITTING" "Gravity Accelerometer" -0.268255572089403
+30 "SITTING" "Gravity Accelerometer Magnitude" -0.950194344032258
+30 "STANDING" "Body Accelerometer" -0.686132462328249
+30 "STANDING" "Body Accelerometer Jerk" -0.716684130958041
+30 "STANDING" "Body Accelerometer Jerk Magnitude" -0.955496231059322
+30 "STANDING" "Body Accelerometer Magnitude" -0.925231175
+30 "STANDING" "Body Gyroscope" -0.698573255790678
+30 "STANDING" "Body Gyroscope Jerk" -0.515770410283051
+30 "STANDING" "Body Gyroscope Jerk Magnitude" -0.960810418771186
+30 "STANDING" "Body Gyroscope Magnitude" -0.901864961737288
+30 "STANDING" "Gravity Accelerometer" -0.335201618949153
+30 "STANDING" "Gravity Accelerometer Magnitude" -0.923572008135593
+30 "WALKING" "Body Accelerometer" -0.165729392945577
+30 "WALKING" "Body Accelerometer Jerk" -0.293265517276538
+30 "WALKING" "Body Accelerometer Jerk Magnitude" -0.354895071519231
+30 "WALKING" "Body Accelerometer Magnitude" -0.341807503088462
+30 "WALKING" "Body Gyroscope" -0.16087650457809
+30 "WALKING" "Body Gyroscope Jerk" -0.271310597702359
+30 "WALKING" "Body Gyroscope Jerk Magnitude" -0.53631195
+30 "WALKING" "Body Gyroscope Magnitude" -0.244923976990423
+30 "WALKING" "Gravity Accelerometer" -0.348378214384385
+30 "WALKING" "Gravity Accelerometer Magnitude" -0.277506722253846
+30 "WALKING_DOWNSTAIRS" "Body Accelerometer" -0.0762183393079167
+30 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk" -0.226810209612634
+30 "WALKING_DOWNSTAIRS" "Body Accelerometer Jerk Magnitude" -0.169526922778951
+30 "WALKING_DOWNSTAIRS" "Body Accelerometer Magnitude" -0.0563502240135484
+30 "WALKING_DOWNSTAIRS" "Body Gyroscope" -0.223457264231156
+30 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk" -0.303513234923118
+30 "WALKING_DOWNSTAIRS" "Body Gyroscope Jerk Magnitude" -0.613770459112903
+30 "WALKING_DOWNSTAIRS" "Body Gyroscope Magnitude" -0.228234773121895
+30 "WALKING_DOWNSTAIRS" "Gravity Accelerometer" -0.31585631901922
+30 "WALKING_DOWNSTAIRS" "Gravity Accelerometer Magnitude" -0.0254836165645968
+30 "WALKING_UPSTAIRS" "Body Accelerometer" -0.143860867584064
+30 "WALKING_UPSTAIRS" "Body Accelerometer Jerk" -0.471048061451282
+30 "WALKING_UPSTAIRS" "Body Accelerometer Jerk Magnitude" -0.572275207461538
+30 "WALKING_UPSTAIRS" "Body Accelerometer Magnitude" -0.315033776926077
+30 "WALKING_UPSTAIRS" "Body Gyroscope" -0.222875075846949
+30 "WALKING_UPSTAIRS" "Body Gyroscope Jerk" -0.385029748009487
+30 "WALKING_UPSTAIRS" "Body Gyroscope Jerk Magnitude" -0.764635807615385
+30 "WALKING_UPSTAIRS" "Body Gyroscope Magnitude" -0.220881228765
+30 "WALKING_UPSTAIRS" "Gravity Accelerometer" -0.341387987293954
+30 "WALKING_UPSTAIRS" "Gravity Accelerometer Magnitude" -0.232519336544462
