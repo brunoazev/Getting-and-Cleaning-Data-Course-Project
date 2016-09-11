@@ -73,10 +73,10 @@ After
 <thead>
 <tr><td></td><td>featureid</td><td>feature</td><td>measurement</td><td>description</td><td>calculation</td><td>direction</td></tr>
 </thead>
-<tr><td>1</td><td>1</td><td>tBodyAcc-mean()-X</td><td>time</td><td>Body Accelerometer - X - mean - time</td><td>mean</td><td></td></tr>
-<tr><td>2</td><td>2</td><td>tBodyAcc-mean()-Y</td><td>time</td><td>Body Accelerometer - Y - mean - time</td><td>mean</td><td></td></tr>
-<tr><td>2</td><td>3</td><td> tBodyAcc-mean()-Z</td><td>time</td><td>Body Accelerometer - Z - mean - time</td><td>mean</td><td></td></tr>
-<tr><td>2</td><td>4</td><td>tBodyAcc-std()-X</td><td>time</td><td>Body Accelerometer - X - standard deviation - time</td><td>standard deviation</td><td></td></tr>
+<tr><td>1</td><td>1</td><td>tBodyAcc-mean()-X</td><td>time</td><td>Body Accelerometer - X - mean - time</td><td>mean</td><td>X</td></tr>
+<tr><td>2</td><td>2</td><td>tBodyAcc-mean()-Y</td><td>time</td><td>Body Accelerometer - Y - mean - time</td><td>mean</td><td>Y</td></tr>
+<tr><td>2</td><td>3</td><td> tBodyAcc-mean()-Z</td><td>time</td><td>Body Accelerometer - Z - mean - time</td><td>mean</td><td>Z</td></tr>
+<tr><td>2</td><td>4</td><td>tBodyAcc-std()-X</td><td>time</td><td>Body Accelerometer - X - standard deviation - time</td><td>standard deviation</td><td>X</td></tr>
 </table>
 
 ##### Putting all together: train and test data
