@@ -79,11 +79,11 @@ After
 <tr><td>2</td><td>4</td><td>tBodyAcc-std()-X</td><td>time</td><td>Body Accelerometer - X - standard deviation - time</td><td>standard deviation</td><td>X</td></tr>
 </table>
 
-##### Putting all together: train and test data
+##### Putting all together
 The X_train.txt and X_test.txt files contain data of same structure with only numeric values corresponding to the observations for the different features measured on the experiment (e.g: the body gyroscope mean time calculated on X axis). Each column of these data represents the feature measured and each row corresponds to an observation for some volunteer activity performed (e.g: volunteer number 1 sitting at some period of time).
-The following table shows part (first two rows and first two columns) of the X_train.txt file after loaded into R (assume we named the data frame as "xData"):
+The following table shows part (first two rows and first two columns) of the X_train.txt file after loaded into R (assume we named the data frame as "xTrainData"):
 ```R
-head(xData[1:2,1:2])
+head(xTrainData[1:2,1:2])
 ```
 <table>
 <thead>
@@ -98,7 +98,7 @@ The y_train.txt and y_test.txt contain labels for X_train and X_test that repres
 At this point, the data is presented as following, for the first two rows and first five columns for volunteer number one:
 
 ```R
-head(xData[1:2,1:5])
+head(xTrainData[1:2,1:5])
 ```
 <table>
 <thead>
@@ -120,7 +120,7 @@ The same data for volunteer number three:
 
 Another process in tyiding the data was transposing the features (V1:V561) columns to rows, using the gather function from tidyr library:
 ```R
-xData <- xData %>% gather(featureid,value,V1:V561)
+xTrainData <- xTrainData %>% gather(featureid,value,V1:V561)
 ```
 Look at how the data is now presented:
 
@@ -133,16 +133,25 @@ Look at how the data is now presented:
 </table>
 *The data above was filtered to show the most relevant information to comprehension of the transpose process*.
 
-Finally, the last process was replacing the column featureid with the respective feature description from the features data frame. For that, it was necessary to remove the 'V' character from it, cast it to integer, and then match the featureid of both data frames (xData and features) using *left_join()* function. This process will join the two data frames, so the last code line in getTidyData function selects only the relevant columns:
+Finally, the last process was replacing the column featureid with the respective feature description from the features data frame. For that, it was necessary to remove the 'V' character from it, cast it to integer, and then match the featureid of both data frames (xTrainData and features) using *left_join()* function. This process will join the two data frames, so the last code line in getTidyData function selects only the relevant columns.
 
+All the process for making xTrainData tidy is also performed to xTestData (X_test.txt), and then the both data are merged into one data set. Then it is calculated the average of each variable for each activity and each subject, and the result is wrote to the file **tidydata.txt** for submission.
 
- After doing all the necessary process to make the data tidy, the last thing to do is calculate the average of each variable for each activity and each subject, and generate the file for submission.
+The final tidy data looks like this:
+
+<table>
+<thead>
+<tr><td></td><td>volunteernumber</td><td>activity</td><td>feature</td><td>mean</td></tr>
+</thead>
+<tr><td>1</td><td>1</td><td>LAYING</td><td>Body Accelerometer - X - mean - frequency</td><td> -0.9390991</td></tr>
+<tr><td>2</td><td>1</td><td>LAYING</td><td>Body Accelerometer - X - mean - time</td><td>0.2215982</td></tr>
+</table>
 
 ### The code
 ---
 Initialization:
 ```R
-  #Loads useful libraries 
+    #Loads useful libraries 
   library(plyr)
   library(dplyr)  
   library(stringr)
@@ -175,60 +184,152 @@ Initialization:
   features <- c()
 ```
 
-Processing, merging, and getting the tidy data:
+Processing, merging, and generating the required tidy data:
 ``` R
-    tryCatch({
-        if(file.exists(featureFile)){
-          #Loads the 'features' data and makes it tidy 
-          features <- getTidyFeatures(featureFile)
-        }
-        
-        if(file.exists(activityFile)){
-          #Loads the information from the file activity_labels.txt to the 'activities' variable
-          activities <- read.table(activityFile, sep=" ", col.names = c("id","description"))
-        }
-        
-        if(dir.exists(dirTrain)){
-          #Go to the "train" directory
-          setwd(dirTrain)
-          if(file.exists(yTrainFile) && file.exists(xTrainFile) && file.exists(subjectTrainFile)){
-            #Loads the 'X_train.txt' file into a data frame and makes it tidy 
-            xTrainData <- getTidyData(xTrainFile,yTrainFile,subjectTrainFile, activities, features)
-            #Adds a column to make it possible knowing the data type (test/train)
-            xTrainData <- cbind(datatype="train",xTrainData)
-          }
-          #Sets current directory to previous directory
-          setwd(dirBack)
-        }
-        
-        if(dir.exists(dirTest)){
-          #Go to the "test" directory
-          setwd(dirTest)
-          if(file.exists(yTestFile) && file.exists(xTestFile) && file.exists(subjectTestFile)){
-            #Loads the 'X_test.txt' file into a data frame and makes it tidy 
-            xTestData <- getTidyData(xTestFile,yTestFile,subjectTestFile, activities, features)
-            #Adds a column to make it possible knowing the data type (test/train)
-            xTestData <- cbind(datatype="test",xTestData)
-          }
-          #Sets current directory to previous directory
-          setwd(dirBack)
-        }
-        
-        #Merges training and test sets (requirement 1)
-        tidyData<-rbind(xTrainData,xTestData)
-        #Creates a new tidy data set with the average of each feature for each activity and each subject
-        tidyDataSummarised <- ddply(tidyData,.(volunteernumber,activity,feature),summarise,mean=mean(value))
-        
-        #Sets the current directory to root directory
-        setwd(dirBack)
-        
-        #Writes the data for submission
-        write.table(tidyDataSummarised,"tidydata.txt",row.names = FALSE)
-        
-      }, finally={
-        #In any case sets the current directory back to its initial value
-        setwd(oldwd)
-      })
+  tryCatch({
+	    if(file.exists(featureFile)){
+	      #Loads the 'features' data and makes it tidy 
+	      features <- getTidyFeatures(featureFile)
+	    }
+	    
+	    if(file.exists(activityFile)){
+	      #Loads the information from the file activity_labels.txt to the 'activities' variable
+	      activities <- read.table(activityFile, sep=" ", col.names = c("id","description"))
+	    }
+	    
+	    if(dir.exists(dirTrain)){
+	      #Go to the "train" directory
+	      setwd(dirTrain)
+	      if(file.exists(yTrainFile) && file.exists(xTrainFile) && file.exists(subjectTrainFile)){
+	        #Loads the 'X_train.txt' file into a data frame and makes it tidy 
+	        xTrainData <- getTidyData(xTrainFile,yTrainFile,subjectTrainFile, activities, features)
+	        #Adds a column to make it possible knowing the data type (test/train)
+	        xTrainData <- cbind(datatype="train",xTrainData)
+	      }
+	      #Sets current directory to previous directory
+	      setwd(dirBack)
+	    }
+	    
+	    if(dir.exists(dirTest)){
+	      #Go to the "test" directory
+	      setwd(dirTest)
+	      if(file.exists(yTestFile) && file.exists(xTestFile) && file.exists(subjectTestFile)){
+	        #Loads the 'X_test.txt' file into a data frame and makes it tidy 
+	        xTestData <- getTidyData(xTestFile,yTestFile,subjectTestFile, activities, features)
+	        #Adds a column to make it possible knowing the data type (test/train)
+	        xTestData <- cbind(datatype="test",xTestData)
+	      }
+	      #Sets current directory to previous directory
+	      setwd(dirBack)
+	    }
+	    
+	    #Merges training and test sets (requirement 1)
+	    tidyData<-rbind(xTrainData,xTestData)
+	    #Creates a new tidy data set with the average of each feature for each activity and each subject
+	    tidyDataSummarised <- ddply(tidyData,.(volunteernumber,activity,feature),summarise,mean=mean(value))
+	    
+	    #Sets the current directory to root directory
+	    setwd(dirBack)
+	    
+	    #Writes the data for submission
+	    write.table(tidyDataSummarised,"tidydata.txt",row.names = FALSE)
+	    
+  }, finally={
+    #In any case sets the current directory back to its initial value
+    setwd(oldwd)
+  })
+  
+  #Returns the tidy data set required for analysis
+  tidyDataSummarised
+```
+getTidyFeatures:
+``` R
+getTidyFeatures <- function(featureFile){
+  #Loads the information from the file features.txt to the new 'features' dataframe
+  features <- read.table(featureFile, sep=" ", col.names = c("featureid","feature"))
+  #Creates a new column which extract the feature's measurement as described 
+  #on the features_info.txt file. file
+  features["measurement"] <- vector()
+  #Get already defined measurement units in feature name
+  measurmentIndexes <- grep("^[a-z]+[A-Z]+",features$feature)
+  #Updates the measurement column with the respective measurement unit
+  features$measurement[measurmentIndexes] <- ifelse(substr(features$feature[measurmentIndexes],1,1) == "f","frequency","time")
+  #Changes the class of the 'measurement' column to 'factor'
+  features$measurement <- as.factor(features$measurement)
+  #Adds a new factor level for missing variables. This will be treated as "degree" unit
+  #Missing values are intended to represent the angle measurement unit
+  #First adds a new level named "degree" to make it able to update the missing values with this factor
+  levels(features$measurement) <- c(levels(features$measurement),"degree")
+  features$measurement[is.na(features$measurement)] <- "degree"
+  #Creates new columns for the estimated variables and directions
+  #   *directions will not be used, but it was decided to separate it
+  #First splits the feature by the '-' character, returning three columns (description, calculation and direction)
+  newColumns <- str_split_fixed(as.character(features$feature),"-",3)
+  #Updates the columns names 
+  colnames(newColumns) <- c("description","calculation","direction")
+  #Adds the new columns created to 'features' dataframe
+  features <- cbind(features,newColumns)
+  #Changes the class of the 'description' variable
+  features$description <- as.character(features$description)
+  #Gets the main description of the feature in a descriptive form (eg: Body Accelerometer)
+  features$description[grep("^[f|t][A-Z]",features$description)] <- sapply(str_split(features$description[grep("^[f|t][A-Z]",features$description)],"^t|f"),function(x){ retorno <- unlist(x); retorno[2] })
+  #Removes repeated sequence of words. eg: BodyBody
+  features$description <- str_replace(gsub('([[:upper:]])', ' \\1', features$description),"\\b(\\w+)\\b(?=.*\\b\\1\\b)\\s+","")
+  #Updates the abbreviations to full names
+  features$description <- gsub("Gyro","Gyroscope",features$description)
+  features$description <- gsub("Mag","Magnitude",features$description)
+  features$description <- gsub("Acc","Accelerometer",features$description)
+  
+  #Eliminates unnecessary text from 'calculation' variable
+  features$calculation <- str_replace(features$calculation,"\\(.*\\)","")
+  #Eliminates unnecessary text from 'direction' variable. Keeps only X, Y and Z.
+  features$direction <- as.factor(str_replace(features$direction,"[^XYZ]+",""))
+  
+  #Fills blank variables with NA
+  features$calculation[features$calculation == ""] <- NA
+  #Set missing calculation values to the measurement method name extracted from original feature description
+  features$calculation[is.na(features$calculation)] <- str_replace(features$feature[is.na(features$calculation)],"\\(.*\\)","")
+  #Updates the class of 'classification' variable to be a 'factor'
+  features$calculation <- as.factor(tolower(features$calculation))
+  #Sets the final feature description as more descriptive as possible. Eg: Body Accelerometer - X - mean - time
+  features$description <- paste(features$description,features$direction,features$calculation,features$measurement,sep=" - ")
+  features$description <- gsub("-\\s*-","-",gsub("std","standard deviation",features$description))
+  #Updates the class of 'description' variable to be a 'factor'
+  features$description <- as.factor(str_trim(features$description))
+  
+  #Only keeps the mean and std measurements as described on the project requirements
+  features <- subset(features,calculation == "meanfreq" | calculation == "mean" | calculation == "std")
+  features$calculation <- gsub("std","standard deviation",features$calculation)
+  features
+}
+```
+getTidyData():
+
+``` R
+getTidyData <- function(xFile,yFile,subjectFile, activities, features){
+  #Loads the activities labels and associates them to their respective activities id
+  labels <- read.table(yFile, sep=" ", col.names = c("id"))
+  labels <- left_join(labels,activities, by="id")
+  #Loads the subjects representing the volunteers 
+  subjects <- read.table(subjectFile,col.names=c("volunteer"))
+  #Creates a column for registering the number for each experiment (window) recorded per volunteer
+  subjects <- subjects %>% group_by(volunteer) %>% mutate(record = seq_len(n()))
+  #Loads the train data
+  xData <- read.table(xFile)
+  #Merges the data with other associated information and organizes it
+  xData <- cbind("volunteernumber"=subjects$volunteer,"recordnumber"=subjects$record,"activity"=labels$description, xData)
+  #Transforms the data to keep every row one observation
+  #Each row will have a single measurement (feature) and its respective value
+  xData <- xData %>% gather(featureid,value,V1:V561)
+  #Updates the featureid so it can be linked to features data frame
+  xData$featureid <- as.integer(gsub("[a-zA-Z]*","",xData$featureid))
+  #Gets only data with the link with feature data frame
+  xData <- subset(xData,featureid %in% features$featureid)
+  #Merges the data with the feature data frame
+  xData <- left_join(xData,features,by="featureid")
+  #Organizes the name and the order of columns to make it tidy, and select only the relevant columns
+  xData <- xData %>% select(volunteernumber,recordnumber,activity,"feature"=description,direction,calculation,"measurementunit"=measurement,value) %>% arrange(volunteernumber,recordnumber,activity,feature,direction,measurementunit,calculation)
+}
 ```
 
 ### Running the analysis
@@ -255,3 +356,13 @@ To run this analysis and generate the tidy data on your own, you just need to fo
 Use the following function to read the tidy data generated into R:
 
 data <- read.table("tidydata.txt",header=TRUE)
+
+
+--------------------------------------------------------
+--------------------------------------------------------
+
+### Contact
+
+For more information, please contact me:
+
+<a href="mailto:brunoazev.c@gmail.com?Subject=Getting%and%Cleaning%Data%-%Course%Project" target="_top">brunoazev.c@gmail.com</a> 
