@@ -354,9 +354,9 @@ To run this analysis and generate the tidy data on your own, you just need to fo
 ---
 
 Use the following function to read the tidy data generated into R:
-
+``` R
 data <- read.table("tidydata.txt",header=TRUE)
-
+```
 
 --------------------------------------------------------
 --------------------------------------------------------
