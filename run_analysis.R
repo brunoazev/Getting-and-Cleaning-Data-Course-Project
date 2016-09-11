@@ -4,14 +4,16 @@ run_analysis <- function(){
   library(dplyr)  
   library(stringr)
   library(tidyr)
+  
   #Loads external scripts
   source("getTidyData.R")
   source("getTidyFeatures.R")
   
   #Saves the current directory
   oldwd <- getwd()
-  
+  #Goes to the directory with the original data
   setwd("UCI HAR Dataset")
+
   #Sets useful variables 
   featureFile <- "features.txt"
   activityFile <- "activity_labels.txt"
@@ -31,6 +33,7 @@ run_analysis <- function(){
   
   tryCatch({
     if(file.exists(featureFile)){
+      #Loads the 'features' data and makes it tidy 
       features <- getTidyFeatures(featureFile)
     }
     
@@ -43,10 +46,12 @@ run_analysis <- function(){
       #Go to the "train" directory
       setwd(dirTrain)
       if(file.exists(yTrainFile) && file.exists(xTrainFile) && file.exists(subjectTrainFile)){
+        #Loads the 'X_train.txt' file into a data frame and makes it tidy 
         xTrainData <- getTidyData(xTrainFile,yTrainFile,subjectTrainFile, activities, features)
+        #Adds a column to make it possible knowing the data type (test/train)
         xTrainData <- cbind(datatype="train",xTrainData)
       }
-      
+      #Sets current directory to previous directory
       setwd(dirBack)
     }
     
@@ -54,19 +59,24 @@ run_analysis <- function(){
       #Go to the "test" directory
       setwd(dirTest)
       if(file.exists(yTestFile) && file.exists(xTestFile) && file.exists(subjectTestFile)){
+        #Loads the 'X_test.txt' file into a data frame and makes it tidy 
         xTestData <- getTidyData(xTestFile,yTestFile,subjectTestFile, activities, features)
+        #Adds a column to make it possible knowing the data type (test/train)
         xTestData <- cbind(datatype="test",xTestData)
       }
-      
+      #Sets current directory to previous directory
       setwd(dirBack)
     }
     
+    #Merges training and test sets (requirement 1)
     tidyData<-rbind(xTrainData,xTestData)
+    #Creates a new tidy data set with the average of each feature for each activity and each subject
     tidyDataSummarised <- ddply(tidyData,.(volunteernumber,activity,feature),summarise,mean=mean(value))
     
+    #Sets the current directory to root directory
     setwd(dirBack)
     
-    #Code used to generate the data in csv format if it is the case.
+    #Code used to generate the data in csv format if it is necessary.
     #----------------------------------------------------------------------------
     #if(!dir.exists("tidydata"))
     #  dir.create("tidydata")
@@ -81,8 +91,10 @@ run_analysis <- function(){
     write.table(tidyDataSummarised,"tidydata.txt",row.names = FALSE)
     
   }, finally={
+    #In any case sets the current directory back to its initial value
     setwd(oldwd)
   })
   
+  #Returns the tidy data set required for analysis
   tidyDataSummarised
 }
