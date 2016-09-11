@@ -19,6 +19,6 @@ getTidyData <- function(xFile,yFile,subjectFile, activities, features){
   xData <- subset(xData,featureid %in% features$featureid)
   #Merges the data with the feature data frame
   xData <- left_join(xData,features,by="featureid")
-  #Organizes the name and the order of columns to make it tidy
+  #Organizes the name and the order of columns to make it tidy, and select only the relevant columns
   xData <- xData %>% select(volunteernumber,recordnumber,activity,"feature"=description,direction,calculation,"measurementunit"=measurement,value) %>% arrange(volunteernumber,recordnumber,activity,feature,direction,measurementunit,calculation)
 }

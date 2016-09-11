@@ -76,17 +76,6 @@ run_analysis <- function(){
     #Sets the current directory to root directory
     setwd(dirBack)
     
-    #Code used to generate the data in csv format if it is necessary.
-    #----------------------------------------------------------------------------
-    #if(!dir.exists("tidydata"))
-    #  dir.create("tidydata")
-    #setwd("tidydata")
-    #write.table(tidyData,paste("tidydata_",gsub("[[:punct:]]","",format(Sys.time(), "%x%X")),".csv",sep=""),sep=";")
-    #
-    #write.table(tidyDataSummarised,paste("tidydata_summarised_",gsub(":","",format(Sys.time(), "%X")),".csv",sep=""),sep=";")
-    #setwd(dirback)
-    #----------------------------------------------------------------------------
-    
     #Writes the data for submission
     write.table(tidyDataSummarised,"tidydata.txt",row.names = FALSE)
     
