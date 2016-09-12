@@ -43,6 +43,7 @@ getTidyFeatures <- function(featureFile){
   features$calculation[features$calculation == ""] <- NA
   #Set missing calculation values to the measurement method name extracted from original feature description
   features$calculation[is.na(features$calculation)] <- str_replace(features$feature[is.na(features$calculation)],"\\(.*\\)","")
+  features$calculation <- gsub("meanfreq","mean",features$calculation)
   #Updates the class of 'classification' variable to be a 'factor'
   features$calculation <- as.factor(tolower(features$calculation))
   #Sets the final feature description as more descriptive as possible. Eg: Body Accelerometer - X - mean - time
@@ -52,7 +53,6 @@ getTidyFeatures <- function(featureFile){
   features$description <- as.factor(str_trim(features$description))
   
   #Only keeps the mean and std measurements as described on the project requirements
-  features <- subset(features,calculation == "meanfreq" | calculation == "mean" | calculation == "std")
-  features$calculation <- gsub("std","standard deviation",features$calculation)
+  features <- subset(features,calculation == "mean" | calculation == "std")
   features
 }
